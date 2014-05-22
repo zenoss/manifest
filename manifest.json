@@ -28,8 +28,8 @@
             "repo": "zenoss/ZenPacks.zenoss.WebsphereMonitor", 
             "ref": null
         }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseSecurity": {
-            "repo": "zenoss/ZenPacks.zenoss.EnterpriseSecurity", 
+        "enterprise_zenpacks/ZenPacks.zenoss.JBossMonitor": {
+            "repo": "zenoss/ZenPacks.zenoss.JBossMonitor", 
             "ref": null
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.CheckPointMonitor": {
@@ -112,8 +112,8 @@
             "repo": "zenoss/ZenPacks.zenoss.ZenOperatorRole", 
             "ref": null
         }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.JBossMonitor": {
-            "repo": "zenoss/ZenPacks.zenoss.JBossMonitor", 
+        "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseSecurity": {
+            "repo": "zenoss/ZenPacks.zenoss.EnterpriseSecurity", 
             "ref": null
         }, 
         "zenpacks/ZenPacks.zenoss.DeviceSearch": {
