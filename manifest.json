@@ -28,8 +28,8 @@
             "repo": "zenoss/ZenPacks.zenoss.WebsphereMonitor", 
             "ref": "develop"
         }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseSecurity": {
-            "repo": "zenoss/ZenPacks.zenoss.EnterpriseSecurity", 
+        "enterprise_zenpacks/ZenPacks.zenoss.JBossMonitor": {
+            "repo": "zenoss/ZenPacks.zenoss.JBossMonitor", 
             "ref": "develop"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.CheckPointMonitor": {
@@ -112,8 +112,8 @@
             "repo": "zenoss/ZenPacks.zenoss.ZenOperatorRole", 
             "ref": "develop"
         }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.JBossMonitor": {
-            "repo": "zenoss/ZenPacks.zenoss.JBossMonitor", 
+        "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseSecurity": {
+            "repo": "zenoss/ZenPacks.zenoss.EnterpriseSecurity", 
             "ref": "develop"
         }, 
         "zenpacks/ZenPacks.zenoss.DeviceSearch": {
@@ -175,7 +175,7 @@
         }, 
         "golang/src/github.com/zenoss/serviced": {
             "repo": "zenoss/serviced", 
-            "ref": "e16d56e23133b57a3f272124465e1c8a261a0b53"
+            "ref": "develop"
         }, 
         "zenpacks/ZenPacks.zenoss.NNTPMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.NNTPMonitor", 
