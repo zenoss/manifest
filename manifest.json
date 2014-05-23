@@ -8,9 +8,9 @@
             "repo": "zenoss/ZenPacks.zenoss.Microsoft.Windows", 
             "ref": "develop"
         }, 
-        "serviced.shell": {
-            "repo": "zenoss/serviced.shell", 
-            "ref": "develop"
+        "core": {
+            "repo": "zenoss/zenoss-prodbin", 
+            "ref": "feature/deployService"
         }, 
         "utils": {
             "repo": "zenoss/zenoss-utils", 
@@ -18,10 +18,6 @@
         }, 
         "zenpacks/ZenPacks.zenoss.DigMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.DigMonitor", 
-            "ref": "develop"
-        }, 
-        "zenpacks/ZenPacks.zenoss.MySqlMonitor": {
-            "repo": "zenoss/ZenPacks.zenoss.MySqlMonitor", 
             "ref": "develop"
         }, 
         "zenpacks/ZenPacks.zenoss.EsxTop": {
@@ -56,12 +52,24 @@
             "repo": "zenoss/ZenPacks.zenoss.FtpMonitor", 
             "ref": "develop"
         }, 
-        "golang/src/github.com/zenoss/serviced": {
-            "repo": "zenoss/serviced", 
-            "ref": "feature/serviceDeploy"
+        "zproxy": {
+            "repo": "zenoss/zproxy", 
+            "ref": "develop"
         }, 
-        "zenpacks/ZenPacks.zenoss.HPMonitor": {
-            "repo": "zenoss/ZenPacks.zenoss.HPMonitor", 
+        "metric-tsdb": {
+            "repo": "zenoss/zenoss.metric.tsdb", 
+            "ref": "develop"
+        }, 
+        "zenpacks/ZenPacks.zenoss.IRCDMonitor": {
+            "repo": "zenoss/ZenPacks.zenoss.IRCDMonitor", 
+            "ref": "develop"
+        }, 
+        "metric-service": {
+            "repo": "zenoss/query", 
+            "ref": "develop"
+        }, 
+        "zenpacks/ZenPacks.zenoss.XenMonitor": {
+            "repo": "zenoss/ZenPacks.zenoss.XenMonitor", 
             "ref": "develop"
         }, 
         "../build": {
@@ -69,17 +77,9 @@
             "ref": "develop", 
             "name": "build"
         }, 
-        "zenpacks/ZenPacks.zenoss.XenMonitor": {
-            "repo": "zenoss/ZenPacks.zenoss.XenMonitor", 
+        "serviced.shell": {
+            "repo": "zenoss/serviced.shell", 
             "ref": "develop"
-        }, 
-        "zenpacks/ZenPacks.zenoss.IRCDMonitor": {
-            "repo": "zenoss/ZenPacks.zenoss.IRCDMonitor", 
-            "ref": "develop"
-        }, 
-        "core": {
-            "repo": "zenoss/zenoss-prodbin", 
-            "ref": "feature/deployService"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.DynamicView": {
             "repo": "zenoss/ZenPacks.zenoss.DynamicView", 
@@ -89,9 +89,9 @@
             "repo": "zenoss/ZenPacks.zenoss.ApacheMonitor", 
             "ref": "develop"
         }, 
-        "zproxy": {
-            "repo": "zenoss/zproxy", 
-            "ref": "develop"
+        "golang/src/github.com/zenoss/serviced": {
+            "repo": "zenoss/serviced", 
+            "ref": "feature/serviceDeploy"
         }, 
         "zenpacks/ZenPacks.zenoss.NNTPMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.NNTPMonitor", 
@@ -137,8 +137,8 @@
             "repo": "zenoss/zenoss-zapp", 
             "ref": "develop"
         }, 
-        "metric-service": {
-            "repo": "zenoss/query", 
+        "zenpacks/ZenPacks.zenoss.MySqlMonitor": {
+            "repo": "zenoss/ZenPacks.zenoss.MySqlMonitor", 
             "ref": "develop"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.Impact": {
@@ -157,8 +157,8 @@
             "repo": "zenoss/ZenPacks.zenoss.WBEM", 
             "ref": "develop"
         }, 
-        "metric-tsdb": {
-            "repo": "zenoss/zenoss.metric.tsdb", 
+        "zenpacks/ZenPacks.zenoss.HPMonitor": {
+            "repo": "zenoss/ZenPacks.zenoss.HPMonitor", 
             "ref": "develop"
         }, 
         "zenpacks/ZenPacks.zenoss.LinuxMonitor": {
