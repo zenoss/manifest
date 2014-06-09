@@ -28,9 +28,9 @@
             "repo": "zenoss/ZenPacks.zenoss.WebsphereMonitor", 
             "ref": "master"
         }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.JBossMonitor": {
-            "repo": "zenoss/ZenPacks.zenoss.JBossMonitor", 
-            "ref": "master"
+        "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseSecurity": {
+            "repo": "zenoss/ZenPacks.zenoss.EnterpriseSecurity", 
+            "ref": "develop"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.CheckPointMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.CheckPointMonitor", 
@@ -82,7 +82,7 @@
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.SolarisMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.SolarisMonitor", 
-            "ref": "master"
+            "ref": "2c5fc6ba42b55e8b78ee5fc9e601c66c52ad6eee"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.CiscoUCS": {
             "repo": "zenoss/ZenPacks.zenoss.CiscoUCS", 
@@ -124,9 +124,9 @@
             "repo": "zenoss/ZenPacks.zenoss.HpuxMonitor", 
             "ref": "master"
         }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseSecurity": {
-            "repo": "zenoss/ZenPacks.zenoss.EnterpriseSecurity", 
-            "ref": "develop"
+        "enterprise_zenpacks/ZenPacks.zenoss.JBossMonitor": {
+            "repo": "zenoss/ZenPacks.zenoss.JBossMonitor", 
+            "ref": "master"
         }, 
         "zenpacks/ZenPacks.zenoss.DeviceSearch": {
             "repo": "zenoss/ZenPacks.zenoss.DeviceSearch", 
@@ -225,8 +225,8 @@
             "repo": "zenoss/ZenPacks.zenoss.BigIpMonitor", 
             "ref": "master"
         }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.WebScale": {
-            "repo": "zenoss/ZenPacks.zenoss.WebScale", 
+        "zenpacks/ZenPacks.zenoss.HttpMonitor": {
+            "repo": "zenoss/ZenPacks.zenoss.HttpMonitor", 
             "ref": "master"
         }, 
         "metric-consumer": {
@@ -249,8 +249,8 @@
             "repo": "zenoss/ZenPacks.zenoss.EnterpriseCollector", 
             "ref": "develop"
         }, 
-        "zenpacks/ZenPacks.zenoss.ZenJMX": {
-            "repo": "zenoss/ZenPacks.zenoss.ZenJMX", 
+        "enterprise_zenpacks/ZenPacks.zenoss.LDAPAuthenticator": {
+            "repo": "zenoss/ZenPacks.zenoss.LDAPAuthenticator", 
             "ref": "master"
         }, 
         "protocols": {
@@ -317,8 +317,8 @@
             "repo": "zenoss/ZenPacks.zenoss.EnterpriseLinux", 
             "ref": "master"
         }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.LDAPAuthenticator": {
-            "repo": "zenoss/ZenPacks.zenoss.LDAPAuthenticator", 
+        "zenpacks/ZenPacks.zenoss.ZenJMX": {
+            "repo": "zenoss/ZenPacks.zenoss.ZenJMX", 
             "ref": "master"
         }, 
         "zenpacks/ZenPacks.zenoss.LinuxMonitor": {
@@ -329,8 +329,8 @@
             "repo": "zenoss/ZenPacks.zenoss.CiscoMonitor", 
             "ref": "master"
         }, 
-        "zenpacks/ZenPacks.zenoss.HttpMonitor": {
-            "repo": "zenoss/ZenPacks.zenoss.HttpMonitor", 
+        "enterprise_zenpacks/ZenPacks.zenoss.WebScale": {
+            "repo": "zenoss/ZenPacks.zenoss.WebScale", 
             "ref": "master"
         }
     }
