@@ -4,14 +4,6 @@
             "repo": "zenoss/ZenPacks.zenoss.LDAPMonitor", 
             "ref": "develop"
         }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.MultiRealmIP": {
-            "repo": "zenoss/ZenPacks.zenoss.MultiRealmIP", 
-            "ref": "develop"
-        }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.Diagram": {
-            "repo": "zenoss/ZenPacks.zenoss.Diagram", 
-            "ref": "develop"
-        }, 
         "enterprise_zenpacks/ZenPacks.zenoss.SolarisMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.SolarisMonitor", 
             "ref": "develop"
@@ -28,10 +20,6 @@
             "repo": "zenoss/ZenPacks.zenoss.JBossMonitor", 
             "ref": "develop"
         }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.CheckPointMonitor": {
-            "repo": "zenoss/ZenPacks.zenoss.CheckPointMonitor", 
-            "ref": "develop"
-        }, 
         "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseLinux": {
             "repo": "zenoss/ZenPacks.zenoss.EnterpriseLinux", 
             "ref": "develop"
@@ -42,10 +30,6 @@
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.CatalogService": {
             "repo": "zenoss/ZenPacks.zenoss.CatalogService", 
-            "ref": "develop"
-        }, 
-        "zenpacks/ZenPacks.zenoss.EsxTop": {
-            "repo": "zenoss/ZenPacks.zenoss.EsxTop", 
             "ref": "develop"
         }, 
         "zenpacks/ZenPacks.zenoss.PythonCollector": {
@@ -60,64 +44,24 @@
             "repo": "zenoss/ZenPacks.zenoss.JabberMonitor", 
             "ref": "develop"
         }, 
-        "zauth-service": {
-            "repo": "zenoss/zauth-service", 
-            "ref": "develop"
-        }, 
         "enterprise_zenpacks/ZenPacks.zenoss.ZenSQLTx": {
             "repo": "zenoss/ZenPacks.zenoss.ZenSQLTx", 
-            "ref": "develop"
-        }, 
-        "zenpacks/ZenPacks.zenoss.Microsoft.Windows": {
-            "repo": "zenoss/ZenPacks.zenoss.Microsoft.Windows", 
-            "ref": "develop"
-        }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.CiscoUCS": {
-            "repo": "zenoss/ZenPacks.zenoss.CiscoUCS", 
-            "ref": "develop"
-        }, 
-        "zenpacks/ZenPacks.zenoss.DellMonitor": {
-            "repo": "zenoss/ZenPacks.zenoss.DellMonitor", 
             "ref": "develop"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.AdvancedSearch": {
             "repo": "zenoss/ZenPacks.zenoss.AdvancedSearch", 
             "ref": "develop"
         }, 
-        "zenpacks/ZenPacks.zenoss.FtpMonitor": {
-            "repo": "zenoss/ZenPacks.zenoss.FtpMonitor", 
-            "ref": "develop"
-        }, 
         "enterprise_zenpacks/ZenPacks.zenoss.VMwareESXMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.VMwareESXMonitor", 
             "ref": "develop"
         }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.SugarCRMMonitor": {
-            "repo": "zenoss/ZenPacks.zenoss.SugarCRMMonitor", 
+        "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseReports": {
+            "repo": "zenoss/ZenPacks.zenoss.EnterpriseReports", 
             "ref": "develop"
         }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.ZenDeviceACL": {
-            "repo": "zenoss/ZenPacks.zenoss.ZenDeviceACL", 
-            "ref": "develop"
-        }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.ZenOperatorRole": {
-            "repo": "zenoss/ZenPacks.zenoss.ZenOperatorRole", 
-            "ref": "develop"
-        }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseSecurity": {
-            "repo": "zenoss/ZenPacks.zenoss.EnterpriseSecurity", 
-            "ref": "develop"
-        }, 
-        "zenpacks/ZenPacks.zenoss.DeviceSearch": {
-            "repo": "zenoss/ZenPacks.zenoss.DeviceSearch", 
-            "ref": "develop"
-        }, 
-        "golang/src/github.com/zenoss/serviced": {
-            "repo": "zenoss/serviced", 
-            "ref": "develop"
-        }, 
-        "zenpacks/ZenPacks.zenoss.HPMonitor": {
-            "repo": "zenoss/ZenPacks.zenoss.HPMonitor", 
+        "enterprise_zenpacks/ZenPacks.zenoss.NortelMonitor": {
+            "repo": "zenoss/ZenPacks.zenoss.NortelMonitor", 
             "ref": "develop"
         }, 
         "../build": {
@@ -125,16 +69,8 @@
             "ref": "develop", 
             "name": "build"
         }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.ZenWebTx": {
-            "repo": "zenoss/ZenPacks.zenoss.ZenWebTx", 
-            "ref": "develop"
-        }, 
         "enterprise_zenpacks/ZenPacks.zenoss.BrocadeMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.BrocadeMonitor", 
-            "ref": "develop"
-        }, 
-        "metric-service": {
-            "repo": "zenoss/query", 
             "ref": "develop"
         }, 
         "zenpacks/ZenPacks.zenoss.XenMonitor": {
@@ -145,16 +81,168 @@
             "repo": "zenoss/zenoss-utils", 
             "ref": "develop"
         }, 
-        "zenpacks/ZenPacks.zenoss.IRCDMonitor": {
-            "repo": "zenoss/ZenPacks.zenoss.IRCDMonitor", 
-            "ref": "develop"
-        }, 
         "enterprise_zenpacks/ZenPacks.zenoss.Impact": {
             "repo": "zenoss/ZenPacks.zenoss.Impact", 
             "ref": "develop"
         }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.WebScale": {
-            "repo": "zenoss/ZenPacks.zenoss.WebScale", 
+        "golang/src/github.com/zenoss/serviced": {
+            "repo": "zenoss/serviced", 
+            "ref": "develop"
+        }, 
+        "zenpacks/ZenPacks.zenoss.NNTPMonitor": {
+            "repo": "zenoss/ZenPacks.zenoss.NNTPMonitor", 
+            "ref": "develop"
+        }, 
+        "golang/src/github.com/zenoss/metricshipper": {
+            "repo": "zenoss/metricshipper", 
+            "ref": "develop"
+        }, 
+        "enterprise_zenpacks/ZenPacks.zenoss.NetAppMonitor": {
+            "repo": "zenoss/ZenPacks.zenoss.NetAppMonitor", 
+            "ref": "develop"
+        }, 
+        "enterprise_zenpacks/ZenPacks.zenoss.WebsphereMonitor": {
+            "repo": "zenoss/ZenPacks.zenoss.WebsphereMonitor", 
+            "ref": "develop"
+        }, 
+        "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseSkin": {
+            "repo": "zenoss/ZenPacks.zenoss.EnterpriseSkin", 
+            "ref": "develop"
+        }, 
+        "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseCollector": {
+            "repo": "zenoss/ZenPacks.zenoss.EnterpriseCollector", 
+            "ref": "develop"
+        }, 
+        "protocols": {
+            "repo": "zenoss/zenoss-protocols", 
+            "ref": "develop"
+        }, 
+        "enterprise_zenpacks/ZenPacks.zenoss.StorageBase": {
+            "repo": "zenoss/ZenPacks.zenoss.StorageBase", 
+            "ref": "develop"
+        }, 
+        "enterprise_zenpacks/ZenPacks.zenoss.ZenHoltWinters": {
+            "repo": "zenoss/ZenPacks.zenoss.ZenHoltWinters", 
+            "ref": "develop"
+        }, 
+        "enterprise_zenpacks/ZenPacks.zenoss.ImpactServer": {
+            "repo": "zenoss/ZenPacks.zenoss.ImpactServer", 
+            "ref": "develop"
+        }, 
+        "metric-service": {
+            "repo": "zenoss/query", 
+            "ref": "develop"
+        }, 
+        "zenpacks/ZenPacks.zenoss.WBEM": {
+            "repo": "zenoss/ZenPacks.zenoss.WBEM", 
+            "ref": "develop"
+        }, 
+        "zenpacks/ZenPacks.zenoss.NtpMonitor": {
+            "repo": "zenoss/ZenPacks.zenoss.NtpMonitor", 
+            "ref": "develop"
+        }, 
+        "enterprise_zenpacks/ZenPacks.zenoss.Licensing": {
+            "repo": "zenoss/ZenPacks.zenoss.Licensing", 
+            "ref": "develop"
+        }, 
+        "metric-tsdb": {
+            "repo": "zenoss/zenoss.metric.tsdb", 
+            "ref": "develop"
+        }, 
+        "enterprise_zenpacks/ZenPacks.zenoss.AuditLog": {
+            "repo": "zenoss/ZenPacks.zenoss.AuditLog", 
+            "ref": "develop"
+        }, 
+        "zenpacks/ZenPacks.zenoss.LinuxMonitor": {
+            "repo": "zenoss/ZenPacks.zenoss.LinuxMonitor", 
+            "ref": "develop"
+        }, 
+        "enterprise_zenpacks/ZenPacks.zenoss.LDAPAuthenticator": {
+            "repo": "zenoss/ZenPacks.zenoss.LDAPAuthenticator", 
+            "ref": "develop"
+        }, 
+        "enterprise_zenpacks/ZenPacks.zenoss.CiscoMonitor": {
+            "repo": "zenoss/ZenPacks.zenoss.CiscoMonitor", 
+            "ref": "develop"
+        }, 
+        "enterprise_zenpacks/ZenPacks.zenoss.MultiRealmIP": {
+            "repo": "zenoss/ZenPacks.zenoss.MultiRealmIP", 
+            "ref": "develop"
+        }, 
+        "enterprise_zenpacks/ZenPacks.zenoss.Diagram": {
+            "repo": "zenoss/ZenPacks.zenoss.Diagram", 
+            "ref": "develop"
+        }, 
+        "zenpacks/ZenPacks.zenoss.Microsoft.Windows": {
+            "repo": "zenoss/ZenPacks.zenoss.Microsoft.Windows", 
+            "ref": "develop"
+        }, 
+        "enterprise_zenpacks/ZenPacks.zenoss.ZenDeviceACL": {
+            "repo": "zenoss/ZenPacks.zenoss.ZenDeviceACL", 
+            "ref": "develop"
+        }, 
+        "enterprise_zenpacks/ZenPacks.zenoss.DistributedCollector": {
+            "repo": "zenoss/ZenPacks.zenoss.DistributedCollector", 
+            "ref": "develop"
+        }, 
+        "enterprise_zenpacks/ZenPacks.zenoss.CheckPointMonitor": {
+            "repo": "zenoss/ZenPacks.zenoss.CheckPointMonitor", 
+            "ref": "develop"
+        }, 
+        "enterprise_zenpacks/ZenPacks.zenoss.vSphere": {
+            "repo": "zenoss/ZenPacks.zenoss.vSphere", 
+            "ref": "develop"
+        }, 
+        "zenpacks/ZenPacks.zenoss.EsxTop": {
+            "repo": "zenoss/ZenPacks.zenoss.EsxTop", 
+            "ref": "develop"
+        }, 
+        "zauth-service": {
+            "repo": "zenoss/zauth-service", 
+            "ref": "develop"
+        }, 
+        "enterprise_zenpacks/ZenPacks.zenoss.CiscoUCS": {
+            "repo": "zenoss/ZenPacks.zenoss.CiscoUCS", 
+            "ref": "develop"
+        }, 
+        "zenpacks/ZenPacks.zenoss.DellMonitor": {
+            "repo": "zenoss/ZenPacks.zenoss.DellMonitor", 
+            "ref": "develop"
+        }, 
+        "zenpacks/ZenPacks.zenoss.FtpMonitor": {
+            "repo": "zenoss/ZenPacks.zenoss.FtpMonitor", 
+            "ref": "develop"
+        }, 
+        "enterprise_zenpacks/ZenPacks.zenoss.SugarCRMMonitor": {
+            "repo": "zenoss/ZenPacks.zenoss.SugarCRMMonitor", 
+            "ref": "develop"
+        }, 
+        "enterprise_zenpacks/ZenPacks.zenoss.ZenOperatorRole": {
+            "repo": "zenoss/ZenPacks.zenoss.ZenOperatorRole", 
+            "ref": "develop"
+        }, 
+        "zenpacks/ZenPacks.zenoss.HttpMonitor": {
+            "repo": "zenoss/ZenPacks.zenoss.HttpMonitor", 
+            "ref": "develop"
+        }, 
+        "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseSecurity": {
+            "repo": "zenoss/ZenPacks.zenoss.EnterpriseSecurity", 
+            "ref": "develop"
+        }, 
+        "zenpacks/ZenPacks.zenoss.HPMonitor": {
+            "repo": "zenoss/ZenPacks.zenoss.HPMonitor", 
+            "ref": "develop"
+        }, 
+        "zenpacks/ZenPacks.zenoss.IRCDMonitor": {
+            "repo": "zenoss/ZenPacks.zenoss.IRCDMonitor", 
+            "ref": "develop"
+        }, 
+        "enterprise_zenpacks/ZenPacks.zenoss.ZenWebTx": {
+            "repo": "zenoss/ZenPacks.zenoss.ZenWebTx", 
+            "ref": "develop"
+        }, 
+        "serviced.shell": {
+            "repo": "zenoss/serviced.shell", 
             "ref": "develop"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.AixMonitor": {
@@ -169,56 +257,32 @@
             "repo": "zenoss/ZenPacks.zenoss.ApacheMonitor", 
             "ref": "develop"
         }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseSkin": {
-            "repo": "zenoss/ZenPacks.zenoss.EnterpriseSkin", 
-            "ref": "develop"
-        }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.ZenHoltWinters": {
-            "repo": "zenoss/ZenPacks.zenoss.ZenHoltWinters", 
-            "ref": "develop"
-        }, 
         "zproxy": {
             "repo": "zenoss/zproxy", 
             "ref": "develop"
         }, 
-        "zenpacks/ZenPacks.zenoss.NNTPMonitor": {
-            "repo": "zenoss/ZenPacks.zenoss.NNTPMonitor", 
+        "enterprise_zenpacks/ZenPacks.zenoss.TomcatMonitor": {
+            "repo": "zenoss/ZenPacks.zenoss.TomcatMonitor", 
             "ref": "develop"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.JuniperMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.JuniperMonitor", 
             "ref": "develop"
         }, 
-        "golang/src/github.com/zenoss/metricshipper": {
-            "repo": "zenoss/metricshipper", 
-            "ref": "develop"
-        }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.ImpactServer": {
-            "repo": "zenoss/ZenPacks.zenoss.ImpactServer", 
+        "zenpacks/ZenPacks.zenoss.DeviceSearch": {
+            "repo": "zenoss/ZenPacks.zenoss.DeviceSearch", 
             "ref": "develop"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.WebLogicMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.WebLogicMonitor", 
             "ref": "develop"
         }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.vSphere": {
-            "repo": "zenoss/ZenPacks.zenoss.vSphere", 
+        "enterprise_zenpacks/ZenPacks.zenoss.PropertyMonitor": {
+            "repo": "zenoss/ZenPacks.zenoss.PropertyMonitor", 
             "ref": "develop"
         }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.DistributedCollector": {
-            "repo": "zenoss/ZenPacks.zenoss.DistributedCollector", 
-            "ref": "develop"
-        }, 
-        "metric-tsdb": {
-            "repo": "zenoss/zenoss.metric.tsdb", 
-            "ref": "develop"
-        }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.BigIpMonitor": {
-            "repo": "zenoss/ZenPacks.zenoss.BigIpMonitor", 
-            "ref": "develop"
-        }, 
-        "zenpacks/ZenPacks.zenoss.HttpMonitor": {
-            "repo": "zenoss/ZenPacks.zenoss.HttpMonitor", 
+        "enterprise_zenpacks/ZenPacks.zenoss.WebScale": {
+            "repo": "zenoss/ZenPacks.zenoss.WebScale", 
             "ref": "develop"
         }, 
         "metric-consumer": {
@@ -233,36 +297,12 @@
             "repo": "zenoss/ZenPacks.zenoss.NetScreenMonitor", 
             "ref": "develop"
         }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseReports": {
-            "repo": "zenoss/ZenPacks.zenoss.EnterpriseReports", 
-            "ref": "develop"
-        }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseCollector": {
-            "repo": "zenoss/ZenPacks.zenoss.EnterpriseCollector", 
-            "ref": "develop"
-        }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.PropertyMonitor": {
-            "repo": "zenoss/ZenPacks.zenoss.PropertyMonitor", 
+        "core": {
+            "repo": "zenoss/zenoss-prodbin", 
             "ref": "develop"
         }, 
         "zenpacks/ZenPacks.zenoss.ZenJMX": {
             "repo": "zenoss/ZenPacks.zenoss.ZenJMX", 
-            "ref": "develop"
-        }, 
-        "protocols": {
-            "repo": "zenoss/zenoss-protocols", 
-            "ref": "develop"
-        }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.TomcatMonitor": {
-            "repo": "zenoss/ZenPacks.zenoss.TomcatMonitor", 
-            "ref": "develop"
-        }, 
-        "serviced.shell": {
-            "repo": "zenoss/serviced.shell", 
-            "ref": "develop"
-        }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.NetAppMonitor": {
-            "repo": "zenoss/ZenPacks.zenoss.NetAppMonitor", 
             "ref": "develop"
         }, 
         "zapp": {
@@ -273,60 +313,20 @@
             "repo": "zenoss/ZenPacks.zenoss.MySqlMonitor", 
             "ref": "develop"
         }, 
-        "zenpacks/ZenPacks.zenoss.WBEM": {
-            "repo": "zenoss/ZenPacks.zenoss.WBEM", 
-            "ref": "develop"
-        }, 
         "enterprise_zenpacks/ZenPacks.zenoss.ZenMailTx": {
             "repo": "zenoss/ZenPacks.zenoss.ZenMailTx", 
-            "ref": "develop"
-        }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.CiscoMonitor": {
-            "repo": "zenoss/ZenPacks.zenoss.CiscoMonitor", 
-            "ref": "develop"
-        }, 
-        "zenpacks/ZenPacks.zenoss.NtpMonitor": {
-            "repo": "zenoss/ZenPacks.zenoss.NtpMonitor", 
             "ref": "develop"
         }, 
         "zenpacks/ZenPacks.zenoss.DnsMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.DnsMonitor", 
             "ref": "develop"
         }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.NortelMonitor": {
-            "repo": "zenoss/ZenPacks.zenoss.NortelMonitor", 
-            "ref": "develop"
-        }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.Licensing": {
-            "repo": "zenoss/ZenPacks.zenoss.Licensing", 
-            "ref": "develop"
-        }, 
         "enterprise_zenpacks/ZenPacks.zenoss.RANCIDIntegrator": {
             "repo": "zenoss/ZenPacks.zenoss.RANCIDIntegrator", 
             "ref": "develop"
         }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.AuditLog": {
-            "repo": "zenoss/ZenPacks.zenoss.AuditLog", 
-            "ref": "develop"
-        }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.StorageBase": {
-            "repo": "zenoss/ZenPacks.zenoss.StorageBase", 
-            "ref": "develop"
-        }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.WebsphereMonitor": {
-            "repo": "zenoss/ZenPacks.zenoss.WebsphereMonitor", 
-            "ref": "develop"
-        }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.LDAPAuthenticator": {
-            "repo": "zenoss/ZenPacks.zenoss.LDAPAuthenticator", 
-            "ref": "develop"
-        }, 
-        "zenpacks/ZenPacks.zenoss.LinuxMonitor": {
-            "repo": "zenoss/ZenPacks.zenoss.LinuxMonitor", 
-            "ref": "develop"
-        }, 
-        "core": {
-            "repo": "zenoss/zenoss-prodbin", 
+        "enterprise_zenpacks/ZenPacks.zenoss.BigIpMonitor": {
+            "repo": "zenoss/ZenPacks.zenoss.BigIpMonitor", 
             "ref": "develop"
         }, 
         "metric-publisher": {
