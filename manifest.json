@@ -112,8 +112,8 @@
             "repo": "zenoss/ZenPacks.zenoss.DeviceSearch", 
             "ref": "master"
         }, 
-        "golang/src/github.com/zenoss/serviced": {
-            "repo": "zenoss/serviced", 
+        "golang/src/github.com/control-center/serviced": {
+            "repo": "control-center/serviced", 
             "ref": "develop"
         }, 
         "zenpacks/ZenPacks.zenoss.HPMonitor": {
