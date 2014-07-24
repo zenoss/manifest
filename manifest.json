@@ -18,7 +18,7 @@
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.AutoTune": {
             "repo": "zenoss/ZenPacks.zenoss.AutoTune", 
-            "ref": "master"
+            "ref": "develop"
         }, 
         "serviced.shell": {
             "repo": "zenoss/serviced.shell", 
@@ -32,9 +32,9 @@
             "repo": "zenoss/ZenPacks.zenoss.JBossMonitor", 
             "ref": "master"
         }, 
-        "utils": {
-            "repo": "zenoss/zenoss-utils", 
-            "ref": "develop"
+        "enterprise_zenpacks/ZenPacks.zenoss.CheckPointMonitor": {
+            "repo": "zenoss/ZenPacks.zenoss.CheckPointMonitor", 
+            "ref": "master"
         }, 
         "zenpacks/ZenPacks.zenoss.DigMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.DigMonitor", 
@@ -82,7 +82,7 @@
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.SolarisMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.SolarisMonitor", 
-            "ref": "2c5fc6ba42b55e8b78ee5fc9e601c66c52ad6eee"
+            "ref": "master"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.CiscoUCS": {
             "repo": "zenoss/ZenPacks.zenoss.CiscoUCS", 
@@ -140,13 +140,9 @@
             "repo": "zenoss/ZenPacks.zenoss.RANCIDIntegrator", 
             "ref": "master"
         }, 
-        "zproxy": {
-            "repo": "zenoss/zproxy", 
-            "ref": "develop"
-        }, 
         "../build": {
             "repo": "zenoss/platform-build", 
-            "ref": "feature/dockerhub", 
+            "ref": "develop", 
             "name": "build"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.ZenWebTx": {
@@ -165,9 +161,9 @@
             "repo": "zenoss/ZenPacks.zenoss.XenMonitor", 
             "ref": "master"
         }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.CheckPointMonitor": {
-            "repo": "zenoss/ZenPacks.zenoss.CheckPointMonitor", 
-            "ref": "master"
+        "utils": {
+            "repo": "zenoss/zenoss-utils", 
+            "ref": "develop"
         }, 
         "zenpacks/ZenPacks.zenoss.IRCDMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.IRCDMonitor", 
@@ -189,9 +185,9 @@
             "repo": "zenoss/ZenPacks.zenoss.ApacheMonitor", 
             "ref": "master"
         }, 
-        "golang/src/github.com/zenoss/serviced": {
-            "repo": "zenoss/serviced", 
-            "ref": "feature/dockerhub"
+        "zproxy": {
+            "repo": "zenoss/zproxy", 
+            "ref": "develop"
         }, 
         "zenpacks/ZenPacks.zenoss.NNTPMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.NNTPMonitor", 
@@ -216,6 +212,10 @@
         "enterprise_zenpacks/ZenPacks.zenoss.PropertyMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.PropertyMonitor", 
             "ref": "master"
+        }, 
+        "golang/src/github.com/control-center/serviced": {
+            "repo": "control-center/serviced", 
+            "ref": "develop"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.DistributedCollector": {
             "repo": "zenoss/ZenPacks.zenoss.DistributedCollector", 
@@ -249,8 +249,8 @@
             "repo": "zenoss/ZenPacks.zenoss.EnterpriseCollector", 
             "ref": "develop"
         }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.LDAPAuthenticator": {
-            "repo": "zenoss/ZenPacks.zenoss.LDAPAuthenticator", 
+        "zenpacks/ZenPacks.zenoss.ZenJMX": {
+            "repo": "zenoss/ZenPacks.zenoss.ZenJMX", 
             "ref": "master"
         }, 
         "protocols": {
@@ -315,10 +315,10 @@
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseLinux": {
             "repo": "zenoss/ZenPacks.zenoss.EnterpriseLinux", 
-            "ref": "master"
+            "ref": "develop"
         }, 
-        "zenpacks/ZenPacks.zenoss.ZenJMX": {
-            "repo": "zenoss/ZenPacks.zenoss.ZenJMX", 
+        "enterprise_zenpacks/ZenPacks.zenoss.LDAPAuthenticator": {
+            "repo": "zenoss/ZenPacks.zenoss.LDAPAuthenticator", 
             "ref": "master"
         }, 
         "zenpacks/ZenPacks.zenoss.LinuxMonitor": {
