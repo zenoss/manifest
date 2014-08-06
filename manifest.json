@@ -311,7 +311,7 @@
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.LDAPAuthenticator": {
             "repo": "zenoss/ZenPacks.zenoss.LDAPAuthenticator", 
-            "ref": "master"
+            "ref": "develop"
         }, 
         "zenpacks/ZenPacks.zenoss.LinuxMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.LinuxMonitor", 
