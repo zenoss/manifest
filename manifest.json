@@ -44,10 +44,6 @@
             "repo": "zenoss/ZenPacks.zenoss.CatalogService", 
             "ref": "develop"
         }, 
-        "zenpacks/ZenPacks.zenoss.EsxTop": {
-            "repo": "zenoss/ZenPacks.zenoss.EsxTop", 
-            "ref": "master"
-        }, 
         "zenpacks/ZenPacks.zenoss.PythonCollector": {
             "repo": "zenoss/ZenPacks.zenoss.PythonCollector", 
             "ref": "master"
@@ -86,10 +82,6 @@
         }, 
         "zenpacks/ZenPacks.zenoss.FtpMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.FtpMonitor", 
-            "ref": "master"
-        }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.VMwareESXMonitor": {
-            "repo": "zenoss/ZenPacks.zenoss.VMwareESXMonitor", 
             "ref": "master"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.SugarCRMMonitor": {
@@ -315,6 +307,14 @@
         }, 
         "zenpacks/ZenPacks.zenoss.LinuxMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.LinuxMonitor", 
+            "ref": "master"
+        }, 
+        "zenpacks/ZenPacks.zenoss.ControlCenter": {
+            "repo": "zenoss/ZenPacks.zenoss.ControlCenter", 
+            "ref": "develop"
+        }, 
+        "zenpacks/ZenPacks.zenoss.vCloud": {
+            "repo": "zenoss/ZenPacks.zenoss.vCloud", 
             "ref": "master"
         }, 
         "core": {
