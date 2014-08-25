@@ -60,10 +60,6 @@
             "repo": "zenoss/zenoss-zep", 
             "ref": "develop"
         }, 
-        "metric-publisher": {
-            "repo": "zenoss/collector-publisher", 
-            "ref": "develop"
-        }, 
         "zenpacks/ZenPacks.zenoss.JabberMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.JabberMonitor", 
             "ref": "master"
