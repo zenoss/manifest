@@ -320,10 +320,6 @@
         "core": {
             "repo": "zenoss/zenoss-prodbin", 
             "ref": "develop"
-        }, 
-        "metric-publisher": {
-            "repo": "zenoss/collector-publisher", 
-            "ref": "develop"
         }
     }
 }
