@@ -189,7 +189,7 @@
             "repo": "zenoss/ZenPacks.zenoss.ApacheMonitor", 
             "ref": "master"
         }, 
-        "golang/src/github.com/zenoss/serviced": {
+        "golang/src/github.com/control-center/serviced": {
             "repo": "zenoss/serviced", 
             "ref": "feature/dockerhub"
         }, 
