@@ -271,7 +271,7 @@
         }, 
         "golang/src/github.com/control-center/serviced": {
             "repo": "control-center/serviced", 
-            "ref": "a590d0730797ad5b51bd87890d72120b6c0726ce"
+            "ref": "2629def56c73b9a017c0aa96efce5a365634d29e"
         }, 
         "zenpacks/ZenPacks.zenoss.HttpMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.HttpMonitor", 
