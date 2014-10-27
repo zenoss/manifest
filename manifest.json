@@ -141,10 +141,6 @@
             "repo": "zenoss/ZenPacks.zenoss.IRCDMonitor", 
             "ref": "master"
         }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.Impact": {
-            "repo": "zenoss/ZenPacks.zenoss.Impact", 
-            "ref": "master"
-        }, 
         "enterprise_zenpacks/ZenPacks.zenoss.AixMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.AixMonitor", 
             "ref": "master"
@@ -180,10 +176,6 @@
         "golang/src/github.com/zenoss/metricshipper": {
             "repo": "zenoss/metricshipper", 
             "ref": "develop"
-        }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.ImpactServer": {
-            "repo": "zenoss/ZenPacks.zenoss.ImpactServer", 
-            "ref": "master"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.WebLogicMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.WebLogicMonitor", 
