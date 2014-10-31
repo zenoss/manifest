@@ -312,6 +312,11 @@
         "core": {
             "repo": "zenoss/zenoss-prodbin", 
             "ref": "develop"
+        },
+        "services": {
+            "repo": "zenoss/zenoss-service",
+            "ref": "develop",
+            "name": "services"
         }
     }
 }
