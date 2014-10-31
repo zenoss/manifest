@@ -116,6 +116,11 @@
             "repo": "zenoss/platform-build", 
             "ref": "develop", 
             "name": "build"
+        },
+        "services": {
+            "repo": "zenoss/zenoss-service", 
+            "ref": "master", 
+            "name": "services"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.ZenWebTx": {
             "repo": "zenoss/ZenPacks.zenoss.ZenWebTx", 
