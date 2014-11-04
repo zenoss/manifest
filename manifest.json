@@ -313,10 +313,10 @@
             "repo": "zenoss/zenoss-prodbin", 
             "ref": "develop"
         },
-        "services": {
+        "service": {
             "repo": "zenoss/zenoss-service",
             "ref": "develop",
-            "name": "services"
+            "name": "service"
         }
     }
 }
