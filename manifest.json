@@ -183,7 +183,11 @@
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.vSphere": {
             "repo": "zenoss/ZenPacks.zenoss.vSphere", 
-            "ref": "maven3compat"
+            "ref": "master"
+        }, 
+        "enterprise_zenpacks/ZenPacks.zenoss.PropertyMonitor": {
+            "repo": "zenoss/ZenPacks.zenoss.PropertyMonitor", 
+            "ref": "master"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.DistributedCollector": {
             "repo": "zenoss/ZenPacks.zenoss.DistributedCollector", 
