@@ -336,7 +336,7 @@
         "enterprise_zenpacks/ZenPacks.zenoss.WebScale": {
             "repo": "zenoss/ZenPacks.zenoss.WebScale", 
             "ref": "master"
-        }
+        },
         "zenpacks/ZenPacks.zenoss.Import4": {
             "repo": "zenoss/ZenPacks.zenoss.Import4",
             "ref": "develop"
