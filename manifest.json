@@ -2,193 +2,193 @@
     "repos": {
         "externallibs": {
             "repo": "zenoss/zenoss-externallibs", 
-            "ref": "develop"
+            "ref": "5a0e0bc0684b74a7d9c41e58265c9a6590114fd7"
         }, 
         "zenpacks/ZenPacks.zenoss.Microsoft.Windows": {
             "repo": "zenoss/ZenPacks.zenoss.Microsoft.Windows", 
-            "ref": "master"
+            "ref": "a90c1d0c6260b081c6c6a56da23848639ab0edad"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.ZenDeviceACL": {
             "repo": "zenoss/ZenPacks.zenoss.ZenDeviceACL", 
-            "ref": "develop"
+            "ref": "c360f05ba5b93f908cba0083aca8787bf9f79f87"
         }, 
         "serviced.shell": {
             "repo": "zenoss/serviced.shell", 
-            "ref": "develop"
+            "ref": "0fbfa490c5dcce790d0297126b651955a66808e0"
         }, 
         "utils": {
             "repo": "zenoss/zenoss-utils", 
-            "ref": "develop"
+            "ref": "99dc8e5fc9a90d556ae4de804c769ef87aa6c80f"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.UCSCapacity": {
             "repo": "zenoss/ZenPacks.zenoss.UCSCapacity", 
-            "ref": "develop"
+            "ref": "49e4133e216ac7cf5b7d9edee4e0ecb9040fa3d6"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.CatalogService": {
             "repo": "zenoss/ZenPacks.zenoss.CatalogService", 
-            "ref": "develop"
-        }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.PropertyMonitor": {
-            "repo": "zenoss/ZenPacks.zenoss.PropertyMonitor", 
-            "ref": "develop"
+            "ref": "25d4b66c7ad464e3b43a5606fbf3a3f2dff94258"
         }, 
         "zenpacks/ZenPacks.zenoss.PythonCollector": {
             "repo": "zenoss/ZenPacks.zenoss.PythonCollector", 
-            "ref": "master"
+            "ref": "3e808501d37d87146c874703ef89927f6d5fdc6a"
         }, 
         "zep": {
             "repo": "zenoss/zenoss-zep", 
-            "ref": "develop"
+            "ref": "5463588a706727b71d65786aa2349f96f7b41811"
         }, 
         "zauth-service": {
             "repo": "zenoss/zauth-service", 
-            "ref": "develop"
+            "ref": "1690041bc3d256d74f70fbedd28254f359085779"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.CiscoUCS": {
             "repo": "zenoss/ZenPacks.zenoss.CiscoUCS", 
-            "ref": "develop"
+            "ref": "9bdf5955d6b04441752c4739b0c1cb112cd9adde"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.PortalIntegration": {
             "repo": "zenoss/ZenPacks.zenoss.PortalIntegration", 
-            "ref": "develop"
+            "ref": "ca8330b89126c31a5bfab1933dfa6da5b7c18dc1"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.AdvancedSearch": {
             "repo": "zenoss/ZenPacks.zenoss.AdvancedSearch", 
-            "ref": "develop"
+            "ref": "65e8ff3d8aa8e5564d6d9af72179a505ce0b7ec0"
         }, 
         "zenpacks/ZenPacks.zenoss.DeviceSearch": {
             "repo": "zenoss/ZenPacks.zenoss.DeviceSearch", 
-            "ref": "master"
+            "ref": "0c6f9751d4603c66ec2bc16287502ffa66af0a1e"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseReports": {
             "repo": "zenoss/ZenPacks.zenoss.EnterpriseReports", 
-            "ref": "develop"
+            "ref": "a2ca62b68f713f5a9f4d8d693d296669b0042e43"
         }, 
         "service": {
             "repo": "zenoss/zenoss-service", 
-            "ref": "develop", 
+            "ref": "3c7293ccdb7a6b1d91078d24d179890c591abd0e", 
             "name": "service"
         }, 
         "zenpacks/ZenPacks.zenoss.CalculatedPerformance": {
             "repo": "zenoss/ZenPacks.zenoss.CalculatedPerformance", 
-            "ref": "develop"
+            "ref": "cac1e1913f1619f37703334655804d9c5ad15b56"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseSecurity": {
             "repo": "zenoss/ZenPacks.zenoss.EnterpriseSecurity", 
-            "ref": "develop"
+            "ref": "420414f4c668cea5e6277539c933b0e42560a0ef"
         }, 
         "zproxy": {
             "repo": "zenoss/zproxy", 
-            "ref": "develop"
+            "ref": "f3275024b5090659b112e700c966d8abf05ca852"
         }, 
         "../build": {
             "repo": "zenoss/platform-build", 
-            "ref": "develop", 
+            "ref": "3241797c03663e88a3e4e088caab7ae1400b7e2a", 
             "name": "build"
-        }, 
-        "metric-service": {
-            "repo": "zenoss/query", 
-            "ref": "develop"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.DistributedCollector": {
             "repo": "zenoss/ZenPacks.zenoss.DistributedCollector", 
-            "ref": "develop"
+            "ref": "97be689cb840c4fa56e02050fdae248903ab5b25"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.DynamicView": {
             "repo": "zenoss/ZenPacks.zenoss.DynamicView", 
-            "ref": "develop"
+            "ref": "3c1ab5a18eeb9ef37ef37a3fa503ec2bf0db968d"
         }, 
         "golang/src/github.com/zenoss/serviced": {
             "repo": "zenoss/serviced", 
-            "ref": "develop"
+            "ref": "cb03f3f0f18012e0e198e5a295d8f25eb9784544"
         }, 
         "golang/src/github.com/zenoss/metricshipper": {
             "repo": "zenoss/metricshipper", 
-            "ref": "develop"
+            "ref": "dbe837b7beb093852220e1aff448377f976a2aee"
+        }, 
+        "enterprise_zenpacks/ZenPacks.zenoss.PropertyMonitor": {
+            "repo": "zenoss/ZenPacks.zenoss.PropertyMonitor", 
+            "ref": "865c5ff0d2b2c4f6b2818d0e5f5de827cc2ad350"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.vSphere": {
             "repo": "zenoss/ZenPacks.zenoss.vSphere", 
-            "ref": "develop"
+            "ref": "82eb9b97b669bd2c9eec63dd8ae14afb7c3aaee7"
         }, 
         "golang/src/github.com/control-center/serviced": {
             "repo": "control-center/serviced", 
-            "ref": "develop"
+            "ref": "cb03f3f0f18012e0e198e5a295d8f25eb9784544"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.Microsoft.HyperV": {
             "repo": "zenoss/ZenPacks.zenoss.Microsoft.HyperV", 
-            "ref": "develop"
+            "ref": "67f19a1336eb364dcd2738d833856550a417f936"
         }, 
         "metric-consumer": {
             "repo": "zenoss/zenoss.metric.consumer", 
-            "ref": "develop"
+            "ref": "8d149e4728f8ff22ae773b53af5bc83e49bf9383"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseLinux": {
             "repo": "zenoss/ZenPacks.zenoss.EnterpriseLinux", 
-            "ref": "develop"
+            "ref": "aee6ede33d810381912388793a3c36a8697b7151"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseSkin": {
             "repo": "zenoss/ZenPacks.zenoss.EnterpriseSkin", 
-            "ref": "develop"
+            "ref": "dda7a2339d8a53a97dac6649b6cf93c7b31f966a"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseCollector": {
             "repo": "zenoss/ZenPacks.zenoss.EnterpriseCollector", 
-            "ref": "develop"
+            "ref": "29307b7cabd9135b068bb36e66925b463cd140db"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.UCSXSkin": {
             "repo": "zenoss/ZenPacks.zenoss.UCSXSkin", 
-            "ref": "develop"
+            "ref": "7a915788a778b895d9e62a94cb855cc7b4d157f2"
         }, 
         "protocols": {
             "repo": "zenoss/zenoss-protocols", 
-            "ref": "develop"
+            "ref": "a97be812984352165b92045a5e0af09c1cd674b5"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.StorageBase": {
             "repo": "zenoss/ZenPacks.zenoss.StorageBase", 
-            "ref": "master"
+            "ref": "2eee4c1ac78b0fac091a7c0d55f9693a6b199038"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.NetAppMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.NetAppMonitor", 
-            "ref": "develop"
+            "ref": "67ad526ca364658ffc5b65c2f6573db394f46438"
         }, 
         "zapp": {
             "repo": "zenoss/zenoss-zapp", 
-            "ref": "develop"
+            "ref": "9d04c0f51cf93f44b6ee6ff6f83e67bffce3de86"
         }, 
-        "zenpacks/ZenPacks.zenoss.LinuxMonitor": {
-            "repo": "zenoss/ZenPacks.zenoss.LinuxMonitor", 
-            "ref": "master"
+        "metric-service": {
+            "repo": "zenoss/query", 
+            "ref": "e3389dfd2620425dad68b26c99b04fcf2f795c23"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.ZenOperatorRole": {
             "repo": "zenoss/ZenPacks.zenoss.ZenOperatorRole", 
-            "ref": "develop"
+            "ref": "7005eb86f8875c73959c0c2958732269ab6ce0be"
         }, 
         "zenpacks/ZenPacks.zenoss.WBEM": {
             "repo": "zenoss/ZenPacks.zenoss.WBEM", 
-            "ref": "master"
+            "ref": "1bc4b93cfeca625d77fef35cc0c681c93c8da2e4"
         }, 
         "core": {
             "repo": "zenoss/zenoss-prodbin", 
-            "ref": "develop"
+            "ref": "fff2621839a78581f57a5a16a4c78efeb0f9952d"
         }, 
         "metric-tsdb": {
             "repo": "zenoss/zenoss.metric.tsdb", 
-            "ref": "develop"
+            "ref": "c852c551bcd6cab0f03a043582108fe5a67c2968"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.EMC.base": {
             "repo": "zenoss/ZenPacks.zenoss.EMC.base", 
-            "ref": "develop"
+            "ref": "690a33cf5007700cf3fe90b7f09dfe1ddd24d602"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.DiscoveryMapping": {
             "repo": "zenoss/ZenPacks.zenoss.DiscoveryMapping", 
-            "ref": "develop"
+            "ref": "aaec09c4a4d082a9e8044de526f05cc8c612196d"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.LDAPAuthenticator": {
             "repo": "zenoss/ZenPacks.zenoss.LDAPAuthenticator", 
-            "ref": "develop"
+            "ref": "cb0ae890649ce46fe3a77ec36a46867685071913"
+        }, 
+        "zenpacks/ZenPacks.zenoss.LinuxMonitor": {
+            "repo": "zenoss/ZenPacks.zenoss.LinuxMonitor", 
+            "ref": "18e203a1b115830006af65ac5ba5870b569af4f5"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.CiscoMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.CiscoMonitor", 
-            "ref": "master"
+            "ref": "688c6274d0a8d098fe002a69225e50d21b0e9f48"
         }
     }
 }
