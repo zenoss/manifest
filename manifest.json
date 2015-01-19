@@ -78,7 +78,7 @@
         }, 
         "service": {
             "repo": "zenoss/zenoss-service", 
-            "ref": "d9b1cf0705649f55f562c885a193afcd78bef29b", 
+            "ref": "ca67b36c27c77e33c8aa66a33f8bee9d72a0f648", 
             "name": "service"
         }, 
         "metric-service": {
