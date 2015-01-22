@@ -199,7 +199,7 @@
         }, 
         "zenpacks/ZenPacks.zenoss.MySqlMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.MySqlMonitor", 
-            "ref": "4c3ff22795dd51d4e67aec385c304148cf3299d6"
+            "ref": "9f036f59e69036f763d41fb86ba0bb06d8f9e819"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.RANCIDIntegrator": {
             "repo": "zenoss/ZenPacks.zenoss.RANCIDIntegrator", 
