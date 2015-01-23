@@ -14,7 +14,7 @@
         }, 
         "zenpacks/ZenPacks.zenoss.PythonCollector": {
             "repo": "zenoss/ZenPacks.zenoss.PythonCollector", 
-            "ref": "3e808501d37d87146c874703ef89927f6d5fdc6a"
+            "ref": "d04ff6db1fd3341fbf0d12851791d0e4abe4de2b"
         }, 
         "zep": {
             "repo": "zenoss/zenoss-zep", 
