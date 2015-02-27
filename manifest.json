@@ -1,3 +1,4 @@
+
 {
     "repos": {
         "externallibs": {
@@ -188,7 +189,7 @@
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.CiscoMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.CiscoMonitor", 
-            "ref": "master"
+            "ref": "develop"
         }
     }
 }
