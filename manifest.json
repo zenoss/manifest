@@ -175,7 +175,7 @@
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseReports": {
             "repo": "zenoss/ZenPacks.zenoss.EnterpriseReports", 
-            "ref": "2.3.1"
+            "ref": "2.3.2"
         }, 
         "service": {
             "repo": "zenoss/zenoss-service", 
