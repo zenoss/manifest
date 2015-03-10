@@ -36,6 +36,10 @@
         "zenpacks/ZenPacks.zenoss.PythonCollector": {
             "repo": "zenoss/ZenPacks.zenoss.PythonCollector", 
             "ref": "master"
+        },
+        "zenpacks/ZenPacks.zenoss.Dashboard": {
+            "repo": "zenoss/ZenPacks.zenoss.Dashboard", 
+            "ref": "develop"
         }, 
         "zep": {
             "repo": "zenoss/zenoss-zep", 
