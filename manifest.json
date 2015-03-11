@@ -46,7 +46,7 @@
         }, 
         "service": {
             "repo": "zenoss/zenoss-service", 
-            "ref": "1c4237c85e41e892ecd2d2be138e77fd7c42bc24", 
+            "ref": "d64c5590d129a748e3ac8c7e026c9cd1306d6d41",
             "name": "service"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.NortelMonitor": {
