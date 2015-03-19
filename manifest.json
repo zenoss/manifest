@@ -1,5 +1,37 @@
 {
     "repos": {
+        "analytics/ZenPacks.zenoss.ZenETL": {
+            "repo": "zenoss/ZenPacks.zenoss.ZenETL", 
+            "ref": "develop"
+        }, 
+        "analytics/etl": {
+            "repo": "zenoss/analytics-etl", 
+            "ref": "develop"
+        }, 
+        "analytics/mariadb-udf": {
+            "repo": "zenoss/analytics-mariadb-udf", 
+            "ref": "develop"
+        }, 
+        "analytics/pkg": {
+            "repo": "zenoss/analytics-pkg", 
+            "ref": "develop"
+        }, 
+        "analytics/reports": {
+            "repo": "zenoss/analytics-reports", 
+            "ref": "develop"
+        }
+        "zenpacks/ZenPacks.zenoss.Import4": {
+            "repo": "zenoss/ZenPacks.zenoss.Import4", 
+            "ref": "develop"
+        }, 
+        "enterprise_zenpacks/ZenPacks.zenoss.AutoTune": {
+            "repo": "zenoss/ZenPacks.zenoss.AutoTune",
+            "ref": "develop"
+        }, 
+        "enterprise_zenpacks/ZenPacks.zenoss.ZenHoltWinters": {
+            "repo": "zenoss/ZenPacks.zenoss.ZenHoltWinters", 
+            "ref": "develop"
+        },
         "enterprise_zenpacks/ZenPacks.zenoss.JBossMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.JBossMonitor",
             "ref": "develop"
@@ -285,54 +317,6 @@
         }, 
         "zenpacks/ZenPacks.zenoss.HPMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.HPMonitor", 
-            "ref": "develop"
-        },
-        "isvcs": {
-            "repo": "control-center/serviced-isvcs", 
-            "ref": "develop"
-        }, 
-        "metric-tsdb": {
-            "repo": "zenoss/zenoss.metric.tsdb", 
-            "ref": "support/5.0.x"
-        }, 
-        "serviced.shell": {
-            "repo": "zenoss/serviced.shell", 
-            "ref": "develop"
-        }, 
-        "zapp": {
-            "repo": "zenoss/zenoss-zapp", 
-            "ref": "support/5.0.x"
-        }, 
-        "zenpacks/ZenPacks.zenoss.Import4": {
-            "repo": "zenoss/ZenPacks.zenoss.Import4", 
-            "ref": "develop"
-        }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.AutoTune": {
-            "repo": "zenoss/ZenPacks.zenoss.AutoTune",
-            "ref": "develop"
-        }, 
-        "enterprise_zenpacks/ZenPacks.zenoss.ZenHoltWinters": {
-            "repo": "zenoss/ZenPacks.zenoss.ZenHoltWinters", 
-            "ref": "develop"
-        }, 
-        "analytics/ZenPacks.zenoss.ZenETL": {
-            "repo": "zenoss/ZenPacks.zenoss.ZenETL", 
-            "ref": "develop"
-        }, 
-        "analytics/etl": {
-            "repo": "zenoss/analytics-etl", 
-            "ref": "develop"
-        }, 
-        "analytics/mariadb-udf": {
-            "repo": "zenoss/analytics-mariadb-udf", 
-            "ref": "develop"
-        }, 
-        "analytics/pkg": {
-            "repo": "zenoss/analytics-pkg", 
-            "ref": "develop"
-        }, 
-        "analytics/reports": {
-            "repo": "zenoss/analytics-reports", 
             "ref": "develop"
         }
     }
