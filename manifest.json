@@ -40,6 +40,10 @@
         "zenpacks/ZenPacks.zenoss.Dashboard": {
             "repo": "zenoss/ZenPacks.zenoss.Dashboard", 
             "ref": "develop"
+        },
+        "enterprise_zenpacks/ZenPacks.zenoss.AuditLog": {
+            "repo": "zenoss/ZenPacks.zenoss.AuditLog",
+            "ref": "develop"
         }, 
         "zep": {
             "repo": "zenoss/zenoss-zep", 
