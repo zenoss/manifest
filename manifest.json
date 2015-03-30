@@ -6,7 +6,7 @@
         },
         "zenpacks/ZenPacks.zenoss.Dashboard": {
             "repo": "zenoss/ZenPacks.zenoss.Dashboard", 
-            "ref": "develop"
+            "ref": "1.0.4"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.MultiRealmIP": {
             "repo": "zenoss/ZenPacks.zenoss.MultiRealmIP", 
