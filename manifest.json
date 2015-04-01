@@ -293,10 +293,10 @@
             "repo": "zenoss/ZenPacks.zenoss.vCloud", 
             "ref": "master"
         }, 
-        "zenpacks/ZenPacks.zenoss.Layer2": {                                                                                                        
-            "repo": "zenoss/ZenPacks.zenoss.Layer2",                                                                                                
-            "ref": "develop"                                                                                                                        
-        },       
+        "zenpacks/ZenPacks.zenoss.Layer2": {
+            "repo": "zenoss/ZenPacks.zenoss.Layer2",
+            "ref": "develop"
+        },
         "zenpacks/ZenPacks.zenoss.Import4": {
             "repo": "zenoss/ZenPacks.zenoss.Import4",
             "ref": "develop"
