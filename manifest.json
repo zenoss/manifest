@@ -22,7 +22,7 @@
         }, 
         "golang/src/github.com/zenoss/zminion": {
             "repo": "git@github.com:zenoss/zminion", 
-            "ref": "support/5.0.x", 
+            "ref": "5.0.0",
             "name": "golang/src/github.com/zenoss/zminion"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.BrocadeMonitor": {
@@ -31,7 +31,7 @@
         }, 
         "golang/src/github.com/zenoss/metricshipper": {
             "repo": "zenoss/metricshipper", 
-            "ref": "support/5.0.x"
+            "ref": "5.0.0"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.BigIpMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.BigIpMonitor", 
@@ -179,12 +179,12 @@
         }, 
         "service": {
             "repo": "zenoss/zenoss-service", 
-            "ref": "5.0.1", 
+            "ref": "5.0.1",
             "name": "service"
         }, 
         "../build": {
             "repo": "zenoss/platform-build", 
-            "ref": "5.0.1", 
+            "ref": "5.0.1",
             "name": "build"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.CheckPointMonitor": {
