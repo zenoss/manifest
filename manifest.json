@@ -193,7 +193,7 @@
         }, 
         "zenpacks/ZenPacks.zenoss.Dashboard": {
             "repo": "zenoss/ZenPacks.zenoss.Dashboard", 
-            "ref": "1.0.3"
+            "ref": "1.0.5"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.WebsphereMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.WebsphereMonitor", 
