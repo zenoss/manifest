@@ -19,7 +19,7 @@
         "analytics/reports": {
             "repo": "zenoss/analytics-reports", 
             "ref": "develop"
-        }
+        },
         "zenpacks/ZenPacks.zenoss.Import4": {
             "repo": "zenoss/ZenPacks.zenoss.Import4", 
             "ref": "develop"
