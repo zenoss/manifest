@@ -202,6 +202,10 @@
         "zenpacks/ZenPacks.zenoss.Layer2": {
             "repo": "zenoss/ZenPacks.zenoss.Layer2", 
             "ref": "develop"
-        }
+        },
+        "enterprise_zenpacks/ZenPacks.zenoss.PredictiveThreshold": {
+            "repo": "zenoss/ZenPacks.zenoss.PredictiveThreshold", 
+            "ref": "develop"
+        },
     }
 }
