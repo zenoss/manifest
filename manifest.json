@@ -206,6 +206,6 @@
         "enterprise_zenpacks/ZenPacks.zenoss.PredictiveThreshold": {
             "repo": "zenoss/ZenPacks.zenoss.PredictiveThreshold", 
             "ref": "develop"
-        },
+        }
     }
 }
