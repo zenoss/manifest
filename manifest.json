@@ -206,6 +206,10 @@
         "enterprise_zenpacks/ZenPacks.zenoss.PredictiveThreshold": {
             "repo": "zenoss/ZenPacks.zenoss.PredictiveThreshold", 
             "ref": "develop"
+        },
+        "enterprise_zenpacks/ZenPacks.zenoss.Ciscoucscentral": {
+            "repo": "zenoss/ZenPacks.zenoss.Ciscoucscentral", 
+            "ref": "develop"
         }
     }
 }
