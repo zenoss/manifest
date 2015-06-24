@@ -207,8 +207,8 @@
             "repo": "zenoss/ZenPacks.zenoss.PredictiveThreshold", 
             "ref": "develop"
         },
-        "enterprise_zenpacks/ZenPacks.zenoss.Ciscoucscentral": {
-            "repo": "zenoss/ZenPacks.zenoss.Ciscoucscentral", 
+        "enterprise_zenpacks/ZenPacks.zenoss.CiscoUCSCentral": {
+            "repo": "zenoss/ZenPacks.zenoss.CiscoUCSCentral", 
             "ref": "develop"
         }
     }
