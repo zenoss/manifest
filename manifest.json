@@ -207,6 +207,10 @@
             "repo": "zenoss/ZenPacks.zenoss.PredictiveThreshold", 
             "ref": "develop"
         },
+        "zenpacks/ZenPacks.zenoss.Import4": {
+            "repo": "zenoss/ZenPacks.zenoss.Import4", 
+            "ref": "develop"
+        },
         "enterprise_zenpacks/ZenPacks.zenoss.CiscoUCSCentral": {
             "repo": "zenoss/ZenPacks.zenoss.CiscoUCSCentral", 
             "ref": "develop"
