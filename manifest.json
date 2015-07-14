@@ -309,6 +309,10 @@
             "repo": "zenoss/zenoss-service",
             "ref": "develop",
             "name": "service"
-        }
+        },
+        "zenpacks/ZenPacks.zenoss.ZenMail": {
+            "repo": "zenoss/ZenPacks.zenoss.ZenMail", 
+            "ref": "develop"
+        } 
     }
 }
