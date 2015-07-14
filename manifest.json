@@ -286,6 +286,10 @@
         "zenpacks/ZenPacks.zenoss.HPMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.HPMonitor", 
             "ref": "2.1.0"
-        }
+        },
+        "zenpacks/ZenPacks.zenoss.ZenMail": {
+            "repo": "zenoss/ZenPacks.zenoss.ZenMail", 
+            "ref": "5.0.0"
+        } 
     }
 }
