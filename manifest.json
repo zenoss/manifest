@@ -210,6 +210,10 @@
         "enterprise_zenpacks/ZenPacks.zenoss.CiscoUCSCentral": {
             "repo": "zenoss/ZenPacks.zenoss.CiscoUCSCentral", 
             "ref": "develop"
+        },
+        "enterprise_zenpacks/ZenPacks.zenoss.ComponentGroups": {
+            "repo": "zenoss/ZenPacks.zenoss.ComponentGroups", 
+            "ref": "develop"
         }
     }
 }
