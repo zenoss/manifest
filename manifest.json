@@ -37,6 +37,10 @@
             "repo": "zenoss/ZenPacks.zenoss.PythonCollector",
             "ref": "master"
         },
+        "zenpacks/ZenPacks.zenoss.ControlCenter": {
+            "repo": "zenoss/ZenPacks.zenoss.ControlCenter",
+            "ref": "develop"
+        },
         "zenpacks/ZenPacks.zenoss.Dashboard": {
             "repo": "zenoss/ZenPacks.zenoss.Dashboard",
             "ref": "develop"
