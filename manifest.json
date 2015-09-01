@@ -18,7 +18,7 @@
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.AdvancedSearch": {
             "repo": "zenoss/ZenPacks.zenoss.AdvancedSearch", 
-            "ref": "1.1.4"
+            "ref": "1.1.5"
         }, 
         "golang/src/github.com/zenoss/zminion": {
             "repo": "git@github.com:zenoss/zminion", 
