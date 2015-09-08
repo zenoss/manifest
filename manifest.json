@@ -6,7 +6,7 @@
         },
         "zenpacks/ZenPacks.zenoss.PythonCollector": {
             "repo": "zenoss/ZenPacks.zenoss.PythonCollector",
-            "ref": "1.6.4"
+            "ref": "1.7.2"
         },
         "zep": {
             "repo": "zenoss/zenoss-zep",
@@ -14,7 +14,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.ZenSQLTx": {
             "repo": "zenoss/ZenPacks.zenoss.ZenSQLTx",
-            "ref": "2.6.1"
+            "ref": "2.6.2"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.AdvancedSearch": {
             "repo": "zenoss/ZenPacks.zenoss.AdvancedSearch",
@@ -59,7 +59,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.CiscoMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.CiscoMonitor",
-            "ref": "5.3.4"
+            "ref": "5.5.0"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.MultiRealmIP": {
             "repo": "zenoss/ZenPacks.zenoss.MultiRealmIP",
@@ -71,7 +71,7 @@
         },
         "zenpacks/ZenPacks.zenoss.Microsoft.Windows": {
             "repo": "zenoss/ZenPacks.zenoss.Microsoft.Windows",
-            "ref": "2.3.1"
+            "ref": "2.4.8"
         },
         "core": {
             "repo": "zenoss/zenoss-prodbin",
@@ -79,7 +79,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.vSphere": {
             "repo": "zenoss/ZenPacks.zenoss.vSphere",
-            "ref": "3.1.1"
+            "ref": "3.2.1"
         },
         "zenpacks/ZenPacks.zenoss.vCloud": {
             "repo": "zenoss/ZenPacks.zenoss.vCloud",
@@ -87,7 +87,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.CiscoUCS": {
             "repo": "zenoss/ZenPacks.zenoss.CiscoUCS",
-            "ref": "1.9.2"
+            "ref": "2.2.0"
         },
         "zenpacks/ZenPacks.zenoss.FtpMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.FtpMonitor",
@@ -135,11 +135,11 @@
         },
         "zenpacks/ZenPacks.zenoss.ZenJMX": {
             "repo": "zenoss/ZenPacks.zenoss.ZenJMX",
-            "ref": "3.11.0"
+            "ref": "3.11.1"
         },
         "zenpacks/ZenPacks.zenoss.MySqlMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.MySqlMonitor",
-            "ref": "3.0.5"
+            "ref": "3.0.6"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseLinux": {
             "repo": "zenoss/ZenPacks.zenoss.EnterpriseLinux",
@@ -155,7 +155,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.SolarisMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.SolarisMonitor",
-            "ref": "2.3.0"
+            "ref": "2.4.1"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.HpuxMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.HpuxMonitor",
@@ -213,7 +213,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.NetAppMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.NetAppMonitor",
-            "ref": "3.0.7"
+            "ref": "3.1.1"
         },
         "metric-service": {
             "repo": "zenoss/query",
@@ -269,7 +269,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.AixMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.AixMonitor",
-            "ref": "2.0.0"
+            "ref": "2.0.1"
         },
         "zproxy": {
             "repo": "zenoss/zproxy",
