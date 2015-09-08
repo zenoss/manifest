@@ -18,7 +18,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.AdvancedSearch": {
             "repo": "zenoss/ZenPacks.zenoss.AdvancedSearch",
-            "ref": "support/5.0.x"
+            "ref": "1.1.5"
         },
         "golang/src/github.com/zenoss/zminion": {
             "repo": "git@github.com:zenoss/zminion",
@@ -39,7 +39,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseSkin": {
             "repo": "zenoss/ZenPacks.zenoss.EnterpriseSkin",
-            "ref": "support/5.0.x"
+            "ref": "3.3.2"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.TomcatMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.TomcatMonitor",
@@ -51,11 +51,11 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.AuditLog": {
             "repo": "zenoss/ZenPacks.zenoss.AuditLog",
-            "ref": "support/5.0.x"
+            "ref": "1.3.0"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.LDAPAuthenticator": {
             "repo": "zenoss/ZenPacks.zenoss.LDAPAuthenticator",
-            "ref": "support/5.0.x"
+            "ref": "3.1.7"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.CiscoMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.CiscoMonitor",
@@ -67,7 +67,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.Diagram": {
             "repo": "zenoss/ZenPacks.zenoss.Diagram",
-            "ref": "support/5.0.x"
+            "ref": "1.2.2"
         },
         "zenpacks/ZenPacks.zenoss.Microsoft.Windows": {
             "repo": "zenoss/ZenPacks.zenoss.Microsoft.Windows",
@@ -95,7 +95,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseSecurity": {
             "repo": "zenoss/ZenPacks.zenoss.EnterpriseSecurity",
-            "ref": "support/5.0.x"
+            "ref": "1.1.0"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.ZenWebTx": {
             "repo": "zenoss/ZenPacks.zenoss.ZenWebTx",
@@ -103,11 +103,11 @@
         },
         "zenpacks/ZenPacks.zenoss.ControlCenter": {
             "repo": "zenoss/ZenPacks.zenoss.ControlCenter",
-            "ref": "support/5.0.x"
+            "ref": "1.0.1"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.DynamicView": {
             "repo": "zenoss/ZenPacks.zenoss.DynamicView",
-            "ref": "support/5.0.x"
+            "ref": "1.2.1.1"
         },
         "zenpacks/ZenPacks.zenoss.ApacheMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.ApacheMonitor",
@@ -171,11 +171,11 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.Licensing": {
             "repo": "zenoss/ZenPacks.zenoss.Licensing",
-            "ref": "support/5.0.x"
+            "ref": "0.1.1"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseReports": {
             "repo": "zenoss/ZenPacks.zenoss.EnterpriseReports",
-            "ref": "support/5.0.x"
+            "ref": "2.3.3"
         },
         "service": {
             "repo": "zenoss/zenoss-service",
@@ -193,7 +193,7 @@
         },
         "zenpacks/ZenPacks.zenoss.Dashboard": {
             "repo": "zenoss/ZenPacks.zenoss.Dashboard",
-            "ref": "support/5.0.x"
+            "ref": "1.0.6"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.WebsphereMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.WebsphereMonitor",
@@ -201,7 +201,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseCollector": {
             "repo": "zenoss/ZenPacks.zenoss.EnterpriseCollector",
-            "ref": "support/5.0.x"
+            "ref": "1.6.1"
         },
         "protocols": {
             "repo": "zenoss/zenoss-protocols",
@@ -237,7 +237,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.ZenDeviceACL": {
             "repo": "zenoss/ZenPacks.zenoss.ZenDeviceACL",
-            "ref": "support/5.0.x"
+            "ref": "2.1.1"
         },
         "utils": {
             "repo": "zenoss/zenoss-utils",
@@ -261,11 +261,11 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.ZenOperatorRole": {
             "repo": "zenoss/ZenPacks.zenoss.ZenOperatorRole",
-            "ref": "support/5.0.x"
+            "ref": "2.0.2"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.DistributedCollector": {
             "repo": "zenoss/ZenPacks.zenoss.DistributedCollector",
-            "ref": "support/5.0.x"
+            "ref": "3.0.0"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.AixMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.AixMonitor",
@@ -289,7 +289,7 @@
         },
         "zenpacks/ZenPacks.zenoss.ZenMail": {
             "repo": "zenoss/ZenPacks.zenoss.ZenMail",
-            "ref": "support/5.0.x"
+            "ref": "5.0.0"
         }
     }
 }
