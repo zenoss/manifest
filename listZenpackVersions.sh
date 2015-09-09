@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 #
 # Outputs a list of zenpack versions sorted in alphabetical order by zenpack name.
 # This script assumes a working zendev environment and that a "zendev restore develop"

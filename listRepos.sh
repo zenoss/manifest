@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 #
 # Outputs a sorted list of repos that use the specified branch of tag namegrep
 #
