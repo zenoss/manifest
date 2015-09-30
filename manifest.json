@@ -225,7 +225,7 @@
         },
         "zenpacks/ZenPacks.zenoss.WBEM": {
             "repo": "zenoss/ZenPacks.zenoss.WBEM",
-            "ref": "1.0.0"
+            "ref": "1.0.3"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.EMC.base": {
             "repo": "zenoss/ZenPacks.zenoss.EMC.base",
