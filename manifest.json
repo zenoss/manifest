@@ -326,6 +326,10 @@
         "enterprise_zenpacks/ZenPacks.zenoss.ComponentGroups": {
             "repo": "zenoss/ZenPacks.zenoss.ComponentGroups",
             "ref": "develop"
+        },
+        "enterprise_zenpacks/ZenPacks.zenoss.UCSXSkin": {
+            "repo": "zenoss/ZenPacks.zenoss.UCSXSkin",
+            "ref": "develop"
         }
     }
 }
