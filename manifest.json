@@ -334,6 +334,10 @@
         "enterprise_zenpacks/ZenPacks.zenoss.UCSXSkin": {
             "repo": "zenoss/ZenPacks.zenoss.UCSXSkin",
             "ref": "develop"
+        },
+        "zenpacks/ZenPacks.zenoss.InstalledTemplatesReport": {
+            "repo": "zenoss/ZenPacks.zenoss.InstalledTemplatesReport",
+            "ref": "develop"
         }
     }
 }
