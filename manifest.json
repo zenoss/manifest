@@ -304,6 +304,10 @@
         "zenpacks/ZenPacks.zenoss.HttpMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.HttpMonitor", 
             "ref": "develop"
+        },
+        "zenpacks/ZenPacks.zenoss.ZenPOP3": {
+            "repo": "zenoss/ZenPacks.zenoss.ZenPOP3",
+            "ref": "develop"
         }
     }
 }
