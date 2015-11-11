@@ -293,7 +293,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.UCSCapacity": {
             "repo": "zenoss/ZenPacks.zenoss.UCSCapacity", 
-            "ref": "release/1.1.0"
+            "ref": "1.1.0"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.PortalIntegration": {
             "repo": "zenoss/ZenPacks.zenoss.PortalIntegration", 
