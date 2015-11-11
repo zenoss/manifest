@@ -325,7 +325,7 @@
         },
         "zenpacks/ZenPacks.zenoss.Import4": {
             "repo": "zenoss/ZenPacks.zenoss.Import4",
-            "ref": "release/1.0.0"
+            "ref": "1.0.0"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.UCSXSkin": {
             "repo": "zenoss/ZenPacks.zenoss.UCSXSkin",
