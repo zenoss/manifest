@@ -265,7 +265,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.DistributedCollector": {
             "repo": "zenoss/ZenPacks.zenoss.DistributedCollector",
-            "ref": "support/5.1.x"
+            "ref": "3.0.1"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.AixMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.AixMonitor",
