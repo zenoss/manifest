@@ -59,7 +59,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.CiscoMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.CiscoMonitor",
-            "ref": "release/5.6.0"
+            "ref": "5.6.0"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.MultiRealmIP": {
             "repo": "zenoss/ZenPacks.zenoss.MultiRealmIP",
