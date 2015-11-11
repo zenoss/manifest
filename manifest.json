@@ -143,7 +143,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseLinux": {
             "repo": "zenoss/ZenPacks.zenoss.EnterpriseLinux",
-            "ref": "release/1.4.0"
+            "ref": "1.4.0"
         },
         "zenpacks/ZenPacks.zenoss.HttpMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.HttpMonitor",
