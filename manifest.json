@@ -237,7 +237,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.ZenDeviceACL": {
             "repo": "zenoss/ZenPacks.zenoss.ZenDeviceACL",
-            "ref": "support/5.1.x"
+            "ref": "2.1.1"
         },
         "utils": {
             "repo": "zenoss/zenoss-utils",
