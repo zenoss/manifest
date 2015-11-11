@@ -95,7 +95,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseSecurity": {
             "repo": "zenoss/ZenPacks.zenoss.EnterpriseSecurity",
-            "ref": "support/5.1.x"
+            "ref": "1.1.0"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.ZenWebTx": {
             "repo": "zenoss/ZenPacks.zenoss.ZenWebTx",
