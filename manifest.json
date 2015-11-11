@@ -313,7 +313,7 @@
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.PredictiveThreshold": {
             "repo": "zenoss/ZenPacks.zenoss.PredictiveThreshold", 
-            "ref": "release/1.0.0"
+            "ref": "1.0.0"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.CiscoUCSCentral": {
             "repo": "zenoss/ZenPacks.zenoss.CiscoUCSCentral", 
