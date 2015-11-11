@@ -301,7 +301,7 @@
         }, 
         "zenpacks/ZenPacks.zenoss.CalculatedPerformance": {
             "repo": "zenoss/ZenPacks.zenoss.CalculatedPerformance", 
-            "ref": "release/2.2.0"
+            "ref": "2.2.0"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.Microsoft.HyperV": {
             "repo": "zenoss/ZenPacks.zenoss.Microsoft.HyperV", 
