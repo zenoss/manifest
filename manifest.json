@@ -213,7 +213,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.NetAppMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.NetAppMonitor",
-            "ref": "release/3.3.0"
+            "ref": "3.3.0"
         },
         "metric-service": {
             "repo": "zenoss/query",
