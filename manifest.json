@@ -167,7 +167,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.CatalogService": {
             "repo": "zenoss/ZenPacks.zenoss.CatalogService",
-            "ref": "support/5.1.x"
+            "ref": "3.0.11"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.Licensing": {
             "repo": "zenoss/ZenPacks.zenoss.Licensing",
