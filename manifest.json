@@ -317,7 +317,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.CiscoUCSCentral": {
             "repo": "zenoss/ZenPacks.zenoss.CiscoUCSCentral", 
-            "ref": "release/1.1.0"
+            "ref": "1.1.0"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.ComponentGroups": {
             "repo": "zenoss/ZenPacks.zenoss.ComponentGroups",
