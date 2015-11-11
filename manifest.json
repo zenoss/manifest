@@ -261,7 +261,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.ZenOperatorRole": {
             "repo": "zenoss/ZenPacks.zenoss.ZenOperatorRole",
-            "ref": "support/5.1.x"
+            "ref": "2.0.2"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.DistributedCollector": {
             "repo": "zenoss/ZenPacks.zenoss.DistributedCollector",
