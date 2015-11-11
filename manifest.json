@@ -51,7 +51,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.AuditLog": {
             "repo": "zenoss/ZenPacks.zenoss.AuditLog",
-            "ref": "support/5.1.x"
+            "ref": "1.3.1"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.LDAPAuthenticator": {
             "repo": "zenoss/ZenPacks.zenoss.LDAPAuthenticator",
