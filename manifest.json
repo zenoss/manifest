@@ -201,7 +201,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseCollector": {
             "repo": "zenoss/ZenPacks.zenoss.EnterpriseCollector",
-            "ref": "support/5.1.x"
+            "ref": "1.6.2"
         },
         "protocols": {
             "repo": "zenoss/zenoss-protocols",
