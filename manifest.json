@@ -131,7 +131,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.PropertyMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.PropertyMonitor",
-            "ref": "release/1.1.0"
+            "ref": "1.1.0"
         },
         "zenpacks/ZenPacks.zenoss.ZenJMX": {
             "repo": "zenoss/ZenPacks.zenoss.ZenJMX",
