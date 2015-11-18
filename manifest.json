@@ -290,6 +290,10 @@
         "zenpacks/ZenPacks.zenoss.ZenMail": {
             "repo": "zenoss/ZenPacks.zenoss.ZenMail",
             "ref": "support/5.0.x"
+        },
+        "zenpacks/ZenPacks.zenoss.ZenPOP3": {
+            "repo": "zenoss/ZenPacks.zenoss.ZenPOP3",
+            "ref": "support/5.0.x"
         }
     }
 }
