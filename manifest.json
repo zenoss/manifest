@@ -135,7 +135,7 @@
         },
         "zenpacks/ZenPacks.zenoss.ZenJMX": {
             "repo": "zenoss/ZenPacks.zenoss.ZenJMX",
-            "ref": "3.11.1"
+            "ref": "support/5.1.x"
         },
         "zenpacks/ZenPacks.zenoss.MySqlMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.MySqlMonitor",
