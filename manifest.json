@@ -291,6 +291,10 @@
             "repo": "zenoss/ZenPacks.zenoss.ZenMail",
             "ref": "support/5.1.x"
         },
+        "zenpacks/ZenPacks.zenoss.ZenPOP3": {
+            "repo": "zenoss/ZenPacks.zenoss.ZenPOP3",
+            "ref": "support/5.1.x"
+        },
         "enterprise_zenpacks/ZenPacks.zenoss.UCSCapacity": {
             "repo": "zenoss/ZenPacks.zenoss.UCSCapacity", 
             "ref": "1.1.4"
