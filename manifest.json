@@ -135,7 +135,7 @@
         },
         "zenpacks/ZenPacks.zenoss.ZenJMX": {
             "repo": "zenoss/ZenPacks.zenoss.ZenJMX",
-            "ref": "develop"
+            "ref": "3.12.1"
         },
         "zenpacks/ZenPacks.zenoss.MySqlMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.MySqlMonitor",
@@ -337,7 +337,7 @@
         },
         "zenpacks/ZenPacks.zenoss.InstalledTemplatesReport": {
             "repo": "zenoss/ZenPacks.zenoss.InstalledTemplatesReport",
-            "ref": "develop"
+            "ref": "1.1.0"
         }
     }
 }
