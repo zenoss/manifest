@@ -14,7 +14,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.ZenSQLTx": {
             "repo": "zenoss/ZenPacks.zenoss.ZenSQLTx",
-            "ref": "2.6.2"
+            "ref": "2.6.3"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.AdvancedSearch": {
             "repo": "zenoss/ZenPacks.zenoss.AdvancedSearch",
@@ -59,7 +59,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.CiscoMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.CiscoMonitor",
-            "ref": "5.6.0"
+            "ref": "5.6.2"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.MultiRealmIP": {
             "repo": "zenoss/ZenPacks.zenoss.MultiRealmIP",
@@ -71,7 +71,7 @@
         },
         "zenpacks/ZenPacks.zenoss.Microsoft.Windows": {
             "repo": "zenoss/ZenPacks.zenoss.Microsoft.Windows",
-            "ref": "2.5.0"
+            "ref": "2.5.7"
         },
         "core": {
             "repo": "zenoss/zenoss-prodbin",
@@ -99,7 +99,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.ZenWebTx": {
             "repo": "zenoss/ZenPacks.zenoss.ZenWebTx",
-            "ref": "2.9.2"
+            "ref": "3.0.0"
         },
         "zenpacks/ZenPacks.zenoss.ControlCenter": {
             "repo": "zenoss/ZenPacks.zenoss.ControlCenter",
@@ -119,7 +119,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.WebLogicMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.WebLogicMonitor",
-            "ref": "2.2.2"
+            "ref": "2.2.3"
         },
         "golang/src/github.com/control-center/serviced": {
             "repo": "control-center/serviced",
@@ -139,7 +139,7 @@
         },
         "zenpacks/ZenPacks.zenoss.MySqlMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.MySqlMonitor",
-            "ref": "3.0.6"
+            "ref": "3.0.7"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseLinux": {
             "repo": "zenoss/ZenPacks.zenoss.EnterpriseLinux",
@@ -197,7 +197,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.WebsphereMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.WebsphereMonitor",
-            "ref": "1.2.1"
+            "ref": "1.2.2"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseCollector": {
             "repo": "zenoss/ZenPacks.zenoss.EnterpriseCollector",
@@ -209,7 +209,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.StorageBase": {
             "repo": "zenoss/ZenPacks.zenoss.StorageBase",
-            "ref": "1.3.2"
+            "ref": "1.4.1"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.NetAppMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.NetAppMonitor",
@@ -221,7 +221,7 @@
         },
         "zenpacks/ZenPacks.zenoss.NtpMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.NtpMonitor",
-            "ref": "2.2.1"
+            "ref": "2.2.2"
         },
         "zenpacks/ZenPacks.zenoss.WBEM": {
             "repo": "zenoss/ZenPacks.zenoss.WBEM",
@@ -309,7 +309,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.Microsoft.HyperV": {
             "repo": "zenoss/ZenPacks.zenoss.Microsoft.HyperV",
-            "ref": "1.2.0"
+            "ref": "1.2.1"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.DiscoveryMapping": {
             "repo": "zenoss/ZenPacks.zenoss.DiscoveryMapping",
@@ -321,7 +321,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.CiscoUCSCentral": {
             "repo": "zenoss/ZenPacks.zenoss.CiscoUCSCentral",
-            "ref": "1.1.0"
+            "ref": "1.2.0"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.ComponentGroups": {
             "repo": "zenoss/ZenPacks.zenoss.ComponentGroups",
