@@ -65,15 +65,22 @@ $ ./listRepos.sh --solution >solution.support
 $ diff solution.develop solution.support
 ```
 
-## Get a list of latest zenpack versions
-The `listZenpackVersions.sh` script is a utility that produces a list of all zenpacks defined by the manifest.
-This list includes zenpacks managed by the Platform team as well as those managed by the Solutions team.
-To get a list of the latest versions, use:
+## Verify ZenPack versions
+The `check-zenpack-versions` script will analyze all ZenPacks defined by the
+manifest and print out which ZenPacks fall into the following categories. This
+information is primarily meant to be used prior to a maintenance or feature
+release to make sure that all ZenPacks are pointing to a tag. In most cases it
+should be the latest tag.
 
-```
-$ git checkout develop
-$ ./listZenpackVersions.sh >zenpack.Versions
-```
+- no ref (extremely unlikely, this is just broken)
+- no local checkout (very possible if zendev isn't syncing the repository)
+- no valid refs (some git issue preventing a list of refs from being obtained)
+- pointing to a feature branch
+- pointing to a hotfix branch
+- pointing to the develop branch
+- pointing to the master branch
+- pointing to an tag that isn't the latest
+- count of ZenPacks with refs pointing to the latest tag
 
 ## Update the versions in `manifest.json` as necessary
 
