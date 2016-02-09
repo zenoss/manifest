@@ -14,7 +14,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.ZenSQLTx": {
             "repo": "zenoss/ZenPacks.zenoss.ZenSQLTx",
-            "ref": "2.6.2"
+            "ref": "2.6.3"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.AdvancedSearch": {
             "repo": "zenoss/ZenPacks.zenoss.AdvancedSearch",
@@ -59,7 +59,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.CiscoMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.CiscoMonitor",
-            "ref": "5.5.0"
+            "ref": "5.6.2"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.MultiRealmIP": {
             "repo": "zenoss/ZenPacks.zenoss.MultiRealmIP",
@@ -71,7 +71,7 @@
         },
         "zenpacks/ZenPacks.zenoss.Microsoft.Windows": {
             "repo": "zenoss/ZenPacks.zenoss.Microsoft.Windows",
-            "ref": "2.4.8"
+            "ref": "2.5.7"
         },
         "core": {
             "repo": "zenoss/zenoss-prodbin",
@@ -79,7 +79,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.vSphere": {
             "repo": "zenoss/ZenPacks.zenoss.vSphere",
-            "ref": "3.2.1"
+            "ref": "3.4.0"
         },
         "zenpacks/ZenPacks.zenoss.vCloud": {
             "repo": "zenoss/ZenPacks.zenoss.vCloud",
@@ -87,7 +87,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.CiscoUCS": {
             "repo": "zenoss/ZenPacks.zenoss.CiscoUCS",
-            "ref": "2.2.0"
+            "ref": "2.3.1"
         },
         "zenpacks/ZenPacks.zenoss.FtpMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.FtpMonitor",
@@ -99,7 +99,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.ZenWebTx": {
             "repo": "zenoss/ZenPacks.zenoss.ZenWebTx",
-            "ref": "2.9.2"
+            "ref": "3.0.0"
         },
         "zenpacks/ZenPacks.zenoss.ControlCenter": {
             "repo": "zenoss/ZenPacks.zenoss.ControlCenter",
@@ -119,7 +119,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.WebLogicMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.WebLogicMonitor",
-            "ref": "2.2.2"
+            "ref": "2.2.3"
         },
         "golang/src/github.com/control-center/serviced": {
             "repo": "control-center/serviced",
@@ -131,15 +131,15 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.PropertyMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.PropertyMonitor",
-            "ref": "1.0.0"
+            "ref": "1.1.0"
         },
         "zenpacks/ZenPacks.zenoss.ZenJMX": {
             "repo": "zenoss/ZenPacks.zenoss.ZenJMX",
-            "ref": "3.11.1"
+            "ref": "3.12.1"
         },
         "zenpacks/ZenPacks.zenoss.MySqlMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.MySqlMonitor",
-            "ref": "3.0.6"
+            "ref": "3.0.7"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseLinux": {
             "repo": "zenoss/ZenPacks.zenoss.EnterpriseLinux",
@@ -197,7 +197,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.WebsphereMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.WebsphereMonitor",
-            "ref": "1.2.1"
+            "ref": "1.2.2"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseCollector": {
             "repo": "zenoss/ZenPacks.zenoss.EnterpriseCollector",
@@ -209,11 +209,11 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.StorageBase": {
             "repo": "zenoss/ZenPacks.zenoss.StorageBase",
-            "ref": "1.3.0"
+            "ref": "1.4.1"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.NetAppMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.NetAppMonitor",
-            "ref": "3.1.0"
+            "ref": "3.3.0"
         },
         "metric-service": {
             "repo": "zenoss/query",
@@ -221,19 +221,19 @@
         },
         "zenpacks/ZenPacks.zenoss.NtpMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.NtpMonitor",
-            "ref": "2.2.1"
+            "ref": "2.2.2"
         },
         "zenpacks/ZenPacks.zenoss.WBEM": {
             "repo": "zenoss/ZenPacks.zenoss.WBEM",
-            "ref": "1.0.0"
+            "ref": "1.0.3"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.EMC.base": {
             "repo": "zenoss/ZenPacks.zenoss.EMC.base",
-            "ref": "1.0.4.1"
+            "ref": "1.1.0"
         },
         "zenpacks/ZenPacks.zenoss.LinuxMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.LinuxMonitor",
-            "ref": "1.3.0"
+            "ref": "1.4.1"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.ZenDeviceACL": {
             "repo": "zenoss/ZenPacks.zenoss.ZenDeviceACL",
