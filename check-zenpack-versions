@@ -1,0 +1,262 @@
+#!/usr/bin/env python
+import collections
+import itertools
+import json
+import os
+import pkg_resources
+import subprocess
+
+
+def get_current_branch():
+    """Return current branch or None if it can't be determined."""
+    try:
+        output = subprocess.check_output(
+            "git symbolic-ref --short -q HEAD",
+            shell=True)
+    except Exception:
+        return None
+
+    return output.strip() or None
+
+
+def get_current_tag():
+    """Return current tag or None if it can't be determined."""
+    try:
+        output = subprocess.check_output(
+            "git describe --tags --exact-match HEAD 2>/dev/null",
+            shell=True)
+    except Exception:
+        return None
+
+    return output.strip() or None
+
+
+def get_zendev_root():
+    """Return zendev root path or None if it can't be found."""
+    try:
+        output = subprocess.check_output("zendev root", shell=True)
+    except Exception:
+        return None
+
+    return output.strip() or None
+
+
+def get_repos():
+    """Return a dict of repos from manifest.json or None."""
+    try:
+        with open("manifest.json", "r") as f:
+            return json.load(f)["repos"]
+    except Exception:
+        pass
+
+
+def get_valid_refs(repo_path):
+    """Return {'tags': set(), 'heads': set()} for repository.
+
+    No keys are guaranteed to exist in the returned dictionary. Some of the
+    keys you may see are: tags, heads, pull. The value for all keys will
+    always be a set of refs.
+
+    """
+    refs = collections.defaultdict(set)
+
+    git_dir = os.path.join(repo_path, '.git')
+    if not os.path.isdir(git_dir):
+        return refs
+
+    try:
+        output = subprocess.check_output(
+            "git ls-remote --tags --heads origin",
+            env={"GIT_DIR": git_dir},
+            shell=True)
+    except Exception:
+        return refs
+
+    for line in output.splitlines():
+        _, ref = line.split(None, 1)
+        _, ref_type, ref_rest = ref.split('/', 2)
+        refs[ref_type].add(ref_rest)
+
+    return refs
+
+
+def get_latest_tag(tags):
+    """Return the "newest" tag in tags or None if tags is empty."""
+    if tags:
+        return sorted(tags, key=pkg_resources.parse_version)[-1]
+
+
+def get_status(zendev_root, repos):
+    status = collections.defaultdict(list)
+
+    for src_path, repo_data in sorted(repos.items()):
+        if "ZenPacks.zenoss." not in src_path:
+            continue
+
+        name = repo_data.get("name", src_path)
+
+        status_data = {
+            "name": name,
+            "path": src_path,
+            }
+
+        # Check for no ref specified. Should never occur.
+        ref = repo_data.get("ref")
+        if not ref:
+            status["no ref"].append(status_data)
+            continue
+        else:
+            status_data["ref"] = ref
+
+        # Get valid refs from the repository.
+        repo_path = os.path.join(zendev_root, "src", src_path)
+        if not os.path.isdir(repo_path):
+            status["no dir"].append(status_data)
+            continue
+
+        # Check that we were able to find any valid refs.
+        valid_refs = get_valid_refs(repo_path)
+        if not valid_refs:
+            status["no valid refs"].append(status_data)
+            continue
+        else:
+            valid_tags = valid_refs.get("tags", [])
+            valid_heads = valid_refs.get("heads", [])
+            latest_tag = get_latest_tag(valid_tags)
+
+            status_data.update({
+                'valid_tags': valid_tags,
+                'valid_heads': valid_heads,
+                'latest_tag': latest_tag,
+                })
+
+        if ref in valid_tags:
+            if ref == latest_tag:
+                status["latest tag"].append(status_data)
+            else:
+                status["old tag"].append(status_data)
+
+        elif ref in valid_heads:
+            if ref == "master":
+                status["master"].append(status_data)
+            elif ref == "develop":
+                status["develop"].append(status_data)
+            elif ref.startswith("hotfix/"):
+                status["hotfix"].append(status_data)
+            elif ref.startswith("feature/"):
+                status["feature"].append(status_data)
+
+    return status
+
+
+def get_tty_width():
+    """Return number of columns on the tty or None if no tty."""
+    try:
+        return int(subprocess.check_output(["stty", "size"]).split()[1])
+    except Exception:
+        return None
+
+
+def report_default(status):
+    default_colspec = [
+        (13, 'ref', 'ref'),
+        (7, 'latest', 'latest_tag'),
+        ]
+
+    sections = [
+        ("no ref", 'Missing "ref" in Manifest', []),
+        ("no dir", "Missing Local Repository", []),
+        ("no valid refs", "No Valid Refs in Local Repository", []),
+        ("feature", "Branch: feature", default_colspec),
+        ("hotfix", "Branch: hotfix", default_colspec),
+        ("develop", "Branch: develop", default_colspec),
+        ("master", "Branch: master", default_colspec),
+        ("old tag", "Old Tag", default_colspec),
+        ]
+
+    tty_width = get_tty_width()
+
+    # Find the longest name in any of the sections that will be shown.
+    longest_name = max(
+        len(d['name'])
+        for d in itertools.chain(*[status[s[0]] for s in sections]))
+
+    def table(status_type, title, colspec):
+        if not status.get(status_type):
+            return
+
+        # Resize the name column so the table is as wide as it needs to be to
+        # show the full name. The name column will be shrunk and truncated on
+        # the left if the tty isn't wide enough.
+        if tty_width:
+            name_width = min(
+                longest_name,
+                tty_width - sum(c[0] for c in colspec) - len(colspec))
+        else:
+            name_width = longest_name
+
+        cs = [(name_width, title, 'name')] + colspec
+
+        print
+        print " ".join(
+            ["{:<%s}" % c[0] for c in cs]
+            ).format(*[c[1] for c in cs])
+
+        print " ".join(
+            ["-" * c[0] for c in cs])
+
+        for data in status[status_type]:
+            print " ".join(
+                ["{:<%s}" % c[0] for c in cs]
+                ).format(*[(data.get(c[2], "") or "")[-c[0]:] for c in cs])
+
+    # Print a table for each section defined above.
+    [table(*args) for args in sections]
+
+    if "latest tag" in status:
+        print "\n{} ZenPacks on latest tag.".format(len(status["latest tag"]))
+
+
+def report_tag(status, tag):
+    """Print report useful for when manifest is on a tag."""
+    print "manifest tag: {}\n".format(tag)
+    print "ZenPacks refs should all be tags."
+
+    report_default(status)
+
+
+def report_branch(status, branch):
+    """Print report useful for when manifest is on a branch."""
+    print "manifest branch: {}\n".format(branch)
+
+    if branch == "master":
+        print "No useful analysis to be done. Try another branch or tag."
+    else:
+        print "ZenPacks refs could be a tag, hotfix, master, or develop."
+
+    report_default(status)
+
+
+def main():
+    zendev_root = get_zendev_root()
+    if not zendev_root:
+        exit("Can't determine zendev root.")
+
+    repos = get_repos()
+    if not repos:
+        exit("Error loading repos from manifest.")
+
+    status = get_status(zendev_root, repos)
+
+    manifest_branch = get_current_branch()
+    manifest_tag = get_current_tag()
+    if manifest_branch:
+        report_branch(status, manifest_branch)
+    elif manifest_tag:
+        report_tag(status, manifest_tag)
+    else:
+        report_default(status)
+
+
+if __name__ == "__main__":
+    main()
