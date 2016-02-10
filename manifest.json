@@ -294,6 +294,10 @@
         "zenpacks/ZenPacks.zenoss.ZenPOP3": {
             "repo": "zenoss/ZenPacks.zenoss.ZenPOP3",
             "ref": "support/5.0.x"
+        },
+        "zenpacks/ZenPacks.zenoss.CalculatedPerformance": {
+            "repo": "zenoss/ZenPacks.zenoss.CalculatedPerformance",
+            "ref": "2.2.0"
         }
     }
 }
