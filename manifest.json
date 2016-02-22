@@ -325,7 +325,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.ComponentGroups": {
             "repo": "zenoss/ZenPacks.zenoss.ComponentGroups",
-            "ref": "1.1.0"
+            "ref": "1.1.1"
         },
         "zenpacks/ZenPacks.zenoss.Import4": {
             "repo": "zenoss/ZenPacks.zenoss.Import4",
