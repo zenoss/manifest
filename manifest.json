@@ -31,7 +31,7 @@
         },
         "golang/src/github.com/zenoss/metricshipper": {
             "repo": "zenoss/metricshipper",
-            "ref": "release/5.0.10"
+            "ref": "support/5.0.x"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.BigIpMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.BigIpMonitor",
