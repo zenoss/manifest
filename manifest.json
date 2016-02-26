@@ -87,7 +87,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.CiscoUCS": {
             "repo": "zenoss/ZenPacks.zenoss.CiscoUCS",
-            "ref": "2.3.2"
+            "ref": "2.3.3"
         },
         "zenpacks/ZenPacks.zenoss.FtpMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.FtpMonitor",
