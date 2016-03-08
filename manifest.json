@@ -79,7 +79,7 @@
         }, 
         "../build": {
             "repo": "zenoss/platform-build", 
-            "ref": "ea132510a18c7740a5174fb9735821e900604cce", 
+            "ref": "feature/removeVersionNbrs.1", 
             "name": "build"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.BrocadeMonitor": {
