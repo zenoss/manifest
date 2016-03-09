@@ -184,7 +184,7 @@
         },
         "../build": {
             "repo": "zenoss/platform-build",
-            "ref": "support/5.1.x",
+            "ref": "feature/ZEN-22383.1",
             "name": "build"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.CheckPointMonitor": {
