@@ -125,6 +125,10 @@
             "repo": "control-center/serviced",
             "ref": "support/1.1.x"
         },
+        "enterprise_zenpacks/ZenPacks.zenoss.NetScaler": {
+            "repo": "zenoss/ZenPacks.zenoss.NetScaler",
+            "ref": "1.0.6"
+        },
         "enterprise_zenpacks/ZenPacks.zenoss.NetScreenMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.NetScreenMonitor",
             "ref": "2.2.0"
