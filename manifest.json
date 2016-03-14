@@ -87,7 +87,23 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.CiscoUCS": {
             "repo": "zenoss/ZenPacks.zenoss.CiscoUCS",
-            "ref": "develop"
+            "ref": "feature/nfvi"
+        },
+        "zenpacks/ZenPacks.zenoss.OpenStack": {
+            "repo": "zenoss/ZenPacks.zenoss.OpenStack",
+            "ref": "feature/nfvi"
+        },
+        "zenpacks/ZenPacks.zenoss.OpenStackInfrastructure": {
+            "repo": "zenoss/ZenPacks.zenoss.OpenStackInfrastructure",
+            "ref": "feature/nfvi"
+        },
+        "enterprise_zenpacks/ZenPacks.zenoss.Ceph": {
+            "repo": "zenoss/ZenPacks.zenoss.Ceph",
+            "ref": "feature/nfvi"
+        },
+        "zenpacks/ZenPacks.zenoss.Docker": {
+            "repo": "zenoss/ZenPacks.zenoss.Docker",
+            "ref": "feature/nfvi"
         },
         "zenpacks/ZenPacks.zenoss.FtpMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.FtpMonitor",
@@ -107,7 +123,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.DynamicView": {
             "repo": "zenoss/ZenPacks.zenoss.DynamicView",
-            "ref": "develop"
+            "ref": "feature/nfvi"
         },
         "zenpacks/ZenPacks.zenoss.ApacheMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.ApacheMonitor",
@@ -237,7 +253,7 @@
         },
         "zenpacks/ZenPacks.zenoss.LinuxMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.LinuxMonitor",
-            "ref": "1.4.1"
+            "ref": "feature/nfvi"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.ZenDeviceACL": {
             "repo": "zenoss/ZenPacks.zenoss.ZenDeviceACL",
