@@ -125,6 +125,10 @@
             "repo": "zenoss/ZenPacks.zenoss.BrocadeMonitor", 
             "ref": "master"
         }, 
+        "modelindex": {
+            "repo": "zenoss/modelindex",
+            "ref":"develop"
+        }, 
         "metric-service": {
             "repo": "zenoss/query", 
             "ref": "develop"
@@ -303,7 +307,7 @@
         },
         "core": {
             "repo": "zenoss/zenoss-prodbin", 
-            "ref": "develop"
+            "ref": "solr-develop"
         },
         "service": {
             "repo": "zenoss/zenoss-service",
