@@ -114,7 +114,7 @@
         }, 
         "../build": {
             "repo": "zenoss/platform-build", 
-            "ref": "develop", 
+            "ref": "solr-develop", 
             "name": "build"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.ZenWebTx": {
@@ -311,7 +311,7 @@
         },
         "service": {
             "repo": "zenoss/zenoss-service",
-            "ref": "solr",
+            "ref": "solr-develop",
             "name": "service"
         },
         "zenpacks/ZenPacks.zenoss.ZenMail": {
