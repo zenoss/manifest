@@ -311,7 +311,7 @@
         },
         "service": {
             "repo": "zenoss/zenoss-service",
-            "ref": "develop",
+            "ref": "solr",
             "name": "service"
         },
         "zenpacks/ZenPacks.zenoss.ZenMail": {
