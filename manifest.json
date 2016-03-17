@@ -197,6 +197,10 @@
             "repo": "zenoss/zenoss.metric.consumer", 
             "ref": "develop"
         }, 
+        "enterprise_zenpacks/ZenPacks.zenoss.NetScaler": {
+            "repo": "zenoss/ZenPacks.zenoss.NetScaler", 
+            "ref": "master"
+        }, 
         "enterprise_zenpacks/ZenPacks.zenoss.NetScreenMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.NetScreenMonitor", 
             "ref": "master"
