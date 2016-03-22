@@ -63,7 +63,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.MultiRealmIP": {
             "repo": "zenoss/ZenPacks.zenoss.MultiRealmIP",
-            "ref": "2.1.4"
+            "ref": "2.2.0"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.Diagram": {
             "repo": "zenoss/ZenPacks.zenoss.Diagram",
