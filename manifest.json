@@ -163,7 +163,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.HpuxMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.HpuxMonitor",
-            "ref": "1.4.0"
+            "ref": "develop"
         },
         "zenpacks/ZenPacks.zenoss.DigMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.DigMonitor",
