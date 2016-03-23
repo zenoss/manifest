@@ -357,6 +357,10 @@
         "zenpacks/ZenPacks.zenoss.ZenPOP3": {
             "repo": "zenoss/ZenPacks.zenoss.ZenPOP3",
             "ref": "develop"
+        },
+        "enterprise_zenpacks/ZenPacks.zenoss.SupportBundle": {
+            "repo": "zenoss/ZenPacks.zenoss.SupportBundle",
+            "ref": "develop"
         }
     }
 }
