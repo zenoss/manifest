@@ -342,6 +342,10 @@
         "zenpacks/ZenPacks.zenoss.InstalledTemplatesReport": {
             "repo": "zenoss/ZenPacks.zenoss.InstalledTemplatesReport",
             "ref": "1.1.0"
+        },
+        "enterprise_zenpacks/ZenPacks.zenoss.SupportBundle": {
+            "repo": "zenoss/ZenPacks.zenoss.SupportBundle",
+            "ref": "develop"
         }
     }
 }
