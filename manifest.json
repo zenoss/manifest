@@ -170,6 +170,10 @@
         "enterprise_zenpacks/ZenPacks.zenoss.NFViMonitoring": {
             "repo": "zenoss/ZenPacks.zenoss.NFViMonitoring",
             "ref": "develop"
+        },
+        "enterprise_zenpacks/ZenPacks.zenoss.NFViSkin": {
+            "repo": "zenoss/ZenPacks.zenoss.NFViSkin",
+            "ref": "develop"
         }
     }
 }
