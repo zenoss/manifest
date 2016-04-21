@@ -107,7 +107,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.DynamicView": {
             "repo": "zenoss/ZenPacks.zenoss.DynamicView",
-            "ref": "develop"
+            "ref": "1.4.0"
         },
         "zenpacks/ZenPacks.zenoss.ApacheMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.ApacheMonitor",
@@ -197,7 +197,7 @@
         },
         "zenpacks/ZenPacks.zenoss.Dashboard": {
             "repo": "zenoss/ZenPacks.zenoss.Dashboard",
-            "ref": "develop"
+            "ref": "1.2.0"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.WebsphereMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.WebsphereMonitor",
@@ -321,7 +321,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.PredictiveThreshold": {
             "repo": "zenoss/ZenPacks.zenoss.PredictiveThreshold",
-            "ref": "develop"
+            "ref": "1.1.0"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.CiscoUCSCentral": {
             "repo": "zenoss/ZenPacks.zenoss.CiscoUCSCentral",
@@ -337,7 +337,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.UCSXSkin": {
             "repo": "zenoss/ZenPacks.zenoss.UCSXSkin",
-            "ref": "develop"
+            "ref": "2.1.0"
         },
         "zenpacks/ZenPacks.zenoss.InstalledTemplatesReport": {
             "repo": "zenoss/ZenPacks.zenoss.InstalledTemplatesReport",
@@ -345,7 +345,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.SupportBundle": {
             "repo": "zenoss/ZenPacks.zenoss.SupportBundle",
-            "ref": "develop"
+            "ref": "1.0.0"
         }
     }
 }
