@@ -240,7 +240,7 @@
             "ref": "1.4.1"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.ZenDeviceACL": {
-            "repo": "zenoss/ZenPacks.zenoss.ZenDeviceACL",
+            "repo": "zenoss/ZenPacks.zenoss.ZenDeviceACL2",
             "ref": "2.1.1"
         },
         "utils": {
