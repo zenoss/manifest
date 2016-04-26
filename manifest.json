@@ -39,7 +39,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseSkin": {
             "repo": "zenoss/ZenPacks.zenoss.EnterpriseSkin",
-            "ref": "support/5.1.x"
+            "ref": "3.3.4"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.TomcatMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.TomcatMonitor",
@@ -55,7 +55,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.LDAPAuthenticator": {
             "repo": "zenoss/ZenPacks.zenoss.LDAPAuthenticator",
-            "ref": "support/5.1.x"
+            "ref": "3.1.9"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.CiscoMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.CiscoMonitor",
@@ -67,7 +67,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.Diagram": {
             "repo": "zenoss/ZenPacks.zenoss.Diagram",
-            "ref": "support/5.1.x"
+            "ref": "1.2.4"
         },
         "zenpacks/ZenPacks.zenoss.Microsoft.Windows": {
             "repo": "zenoss/ZenPacks.zenoss.Microsoft.Windows",
@@ -175,7 +175,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.Licensing": {
             "repo": "zenoss/ZenPacks.zenoss.Licensing",
-            "ref": "support/5.1.x"
+            "ref": "0.1.2"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseReports": {
             "repo": "zenoss/ZenPacks.zenoss.EnterpriseReports",
@@ -205,7 +205,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseCollector": {
             "repo": "zenoss/ZenPacks.zenoss.EnterpriseCollector",
-            "ref": "support/5.1.x"
+            "ref": "1.6.3"
         },
         "protocols": {
             "repo": "zenoss/zenoss-protocols",
@@ -269,7 +269,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.DistributedCollector": {
             "repo": "zenoss/ZenPacks.zenoss.DistributedCollector",
-            "ref": "support/5.1.x"
+            "ref": "3.0.3"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.AixMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.AixMonitor",
@@ -293,11 +293,11 @@
         },
         "zenpacks/ZenPacks.zenoss.ZenMail": {
             "repo": "zenoss/ZenPacks.zenoss.ZenMail",
-            "ref": "support/5.1.x"
+            "ref": "5.0.2"
         },
         "zenpacks/ZenPacks.zenoss.ZenPOP3": {
             "repo": "zenoss/ZenPacks.zenoss.ZenPOP3",
-            "ref": "support/5.1.x"
+            "ref": "5.0.2"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.UCSCapacity": {
             "repo": "zenoss/ZenPacks.zenoss.UCSCapacity",
