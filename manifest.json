@@ -10,7 +10,7 @@
         },
         "zep": {
             "repo": "zenoss/zenoss-zep",
-            "ref": "support/5.1.x"
+            "ref": "7f9efa3ac8d14032aa659932c23bfbab37f52aa1"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.ZenSQLTx": {
             "repo": "zenoss/ZenPacks.zenoss.ZenSQLTx",
@@ -22,7 +22,7 @@
         },
         "golang/src/github.com/zenoss/zminion": {
             "repo": "git@github.com:zenoss/zminion",
-            "ref": "support/5.1.x",
+            "ref": "504c36d632de54c8ea2619779edd2cbf17dcdb8f",
             "name": "golang/src/github.com/zenoss/zminion"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.BrocadeMonitor": {
@@ -31,7 +31,7 @@
         },
         "golang/src/github.com/zenoss/metricshipper": {
             "repo": "zenoss/metricshipper",
-            "ref": "support/5.1.x"
+            "ref": "f9b764c053096fa11dfad4ee9e6f7a532916046f"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.BigIpMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.BigIpMonitor",
@@ -75,7 +75,7 @@
         },
         "core": {
             "repo": "zenoss/zenoss-prodbin",
-            "ref": "support/5.1.x"
+            "ref": "5.1.2"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.vSphere": {
             "repo": "zenoss/ZenPacks.zenoss.vSphere",
@@ -183,12 +183,12 @@
         },
         "service": {
             "repo": "zenoss/zenoss-service",
-            "ref": "support/5.1.x",
+            "ref": "5.1.2",
             "name": "service"
         },
         "../build": {
             "repo": "zenoss/platform-build",
-            "ref": "support/5.1.x",
+            "ref": "5.1.2",
             "name": "build"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.CheckPointMonitor": {
@@ -209,7 +209,7 @@
         },
         "protocols": {
             "repo": "zenoss/zenoss-protocols",
-            "ref": "support/5.1.x"
+            "ref": "53fd7c878c73d49a524f7fba7ea3eb8f3b5938ec"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.StorageBase": {
             "repo": "zenoss/ZenPacks.zenoss.StorageBase",
@@ -221,7 +221,7 @@
         },
         "metric-service": {
             "repo": "zenoss/query",
-            "ref": "support/5.1.x"
+            "ref": "5a1a211f3a5340c8dc7b38c2ccc8a5107d557806"
         },
         "zenpacks/ZenPacks.zenoss.NtpMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.NtpMonitor",
@@ -245,7 +245,7 @@
         },
         "utils": {
             "repo": "zenoss/zenoss-utils",
-            "ref": "support/5.1.x"
+            "ref": "388584c37b7c22b65e162eea1a18e32b112a8628"
         },
         "zenpacks/ZenPacks.zenoss.DnsMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.DnsMonitor",
@@ -253,7 +253,7 @@
         },
         "zauth-service": {
             "repo": "zenoss/zauth-service",
-            "ref": "support/5.1.x"
+            "ref": "50287f2c27e3e871c33e94b2960a410930120734"
         },
         "zenpacks/ZenPacks.zenoss.DellMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.DellMonitor",
@@ -277,11 +277,11 @@
         },
         "zproxy": {
             "repo": "zenoss/zproxy",
-            "ref": "support/5.1.x"
+            "ref": "28a6c87cea2a72a9990832f0ac0b71594ad34d62"
         },
         "metric-consumer": {
             "repo": "zenoss/zenoss.metric.consumer",
-            "ref": "support/5.1.x"
+            "ref": "77604bf246eed2261a1a292729efec50ed966a6a"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.ZenMailTx": {
             "repo": "zenoss/ZenPacks.zenoss.ZenMailTx",
