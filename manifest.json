@@ -121,7 +121,7 @@
         },
         "zenpacks/ZenPacks.zenoss.PythonCollector": {
             "repo": "zenoss/ZenPacks.zenoss.PythonCollector",
-            "ref": "1.7.4"
+            "ref": "develop"
         },
         "zenpacks/ZenPacks.zenoss.CalculatedPerformance": {
             "repo": "zenoss/ZenPacks.zenoss.CalculatedPerformance",
