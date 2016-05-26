@@ -167,12 +167,12 @@
             "repo": "zenoss/ZenPacks.zenoss.InstalledTemplatesReport",
             "ref": "1.1.0"
         },
-        "enterprise_zenpacks/ZenPacks.zenoss.NFViMonitoring": {
-            "repo": "zenoss/ZenPacks.zenoss.NFViMonitoring",
+        "enterprise_zenpacks/ZenPacks.zenoss.CiscoNFVI": {
+            "repo": "zenoss/ZenPacks.zenoss.CiscoNFVI",
             "ref": "develop"
         },
-        "enterprise_zenpacks/ZenPacks.zenoss.NFViSkin": {
-            "repo": "zenoss/ZenPacks.zenoss.NFViSkin",
+        "enterprise_zenpacks/ZenPacks.zenoss.CiscoNFVISkin": {
+            "repo": "zenoss/ZenPacks.zenoss.CiscoNFVISkin",
             "ref": "develop"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.CiscoMercury": {
