@@ -145,7 +145,7 @@
         },
         "zenpacks/ZenPacks.zenoss.OpenStack": {
             "repo": "zenoss/ZenPacks.zenoss.OpenStack",
-            "ref": "feature/nfvi"
+            "ref": "develop"
         },
         "zenpacks/ZenPacks.zenoss.OpenStackInfrastructure": {
             "repo": "zenoss/ZenPacks.zenoss.OpenStackInfrastructure",
