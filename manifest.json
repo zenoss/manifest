@@ -171,6 +171,10 @@
             "repo": "zenoss/ZenPacks.zenoss.CiscoNFVI",
             "ref": "develop"
         },
+        "enterprise_zenpacks/ZenPacks.zenoss.CiscoNFVIReports": {
+            "repo": "zenoss/ZenPacks.zenoss.CiscoNFVIReports",
+            "ref": "develop"
+        },
         "enterprise_zenpacks/ZenPacks.zenoss.CiscoNFVISkin": {
             "repo": "zenoss/ZenPacks.zenoss.CiscoNFVISkin",
             "ref": "develop"
