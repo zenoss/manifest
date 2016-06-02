@@ -161,7 +161,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.CiscoUCS": {
             "repo": "zenoss/ZenPacks.zenoss.CiscoUCS",
-            "ref": "feature/nfvi"
+            "ref": "develop"
         },
         "zenpacks/ZenPacks.zenoss.InstalledTemplatesReport": {
             "repo": "zenoss/ZenPacks.zenoss.InstalledTemplatesReport",
