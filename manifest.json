@@ -103,7 +103,7 @@
         },
         "zenpacks/ZenPacks.zenoss.ControlCenter": {
             "repo": "zenoss/ZenPacks.zenoss.ControlCenter",
-            "ref": "1.1.1"
+            "ref": "1.2.0"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.DynamicView": {
             "repo": "zenoss/ZenPacks.zenoss.DynamicView",
