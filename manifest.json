@@ -337,7 +337,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.UCSXSkin": {
             "repo": "zenoss/ZenPacks.zenoss.UCSXSkin",
-            "ref": "develop"
+            "ref": "2.1.1"
         },
         "zenpacks/ZenPacks.zenoss.InstalledTemplatesReport": {
             "repo": "zenoss/ZenPacks.zenoss.InstalledTemplatesReport",
