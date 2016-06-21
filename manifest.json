@@ -141,7 +141,7 @@
         },
         "zenpacks/ZenPacks.zenoss.Docker": {
             "repo": "zenoss/ZenPacks.zenoss.Docker",
-            "ref": "feature/nfvi"
+            "ref": "develop"
         },
         "zenpacks/ZenPacks.zenoss.OpenStack": {
             "repo": "zenoss/ZenPacks.zenoss.OpenStack",
