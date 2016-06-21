@@ -129,7 +129,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.PredictiveThreshold": {
             "repo": "zenoss/ZenPacks.zenoss.PredictiveThreshold",
-            "ref": "develop"
+            "ref": "1.1.1"
         },
         "zenpacks/ZenPacks.zenoss.ControlCenter": {
             "repo": "zenoss/ZenPacks.zenoss.ControlCenter",
