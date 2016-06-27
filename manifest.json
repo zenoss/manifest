@@ -20,6 +20,10 @@
             "repo": "zenoss/analytics-reports", 
             "ref": "develop"
         },
+        "zapp": {
+            "repo": "zenoss/zenoss-zapp",
+            "ref": "develop"
+        },
         "zenpacks/ZenPacks.zenoss.Import4": {
             "repo": "zenoss/ZenPacks.zenoss.Import4", 
             "ref": "develop"
