@@ -197,11 +197,11 @@
         },
         "zenpacks/ZenPacks.zenoss.Dashboard": {
             "repo": "zenoss/ZenPacks.zenoss.Dashboard",
-            "ref": "1.2.0"
+            "ref": "develop"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.WebsphereMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.WebsphereMonitor",
-            "ref": "develop"
+            "ref": "1.2.2"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseCollector": {
             "repo": "zenoss/ZenPacks.zenoss.EnterpriseCollector",
