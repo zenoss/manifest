@@ -6,7 +6,7 @@
         },
         "zenpacks/ZenPacks.zenoss.PythonCollector": {
             "repo": "zenoss/ZenPacks.zenoss.PythonCollector",
-            "ref": "1.7.4"
+            "ref": "1.8.1"
         },
         "zep": {
             "repo": "zenoss/zenoss-zep",
