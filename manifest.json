@@ -71,7 +71,7 @@
         },
         "zenpacks/ZenPacks.zenoss.Microsoft.Windows": {
             "repo": "zenoss/ZenPacks.zenoss.Microsoft.Windows",
-            "ref": "2.5.12"
+            "ref": "2.5.13"
         },
         "core": {
             "repo": "zenoss/zenoss-prodbin",
