@@ -79,7 +79,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.vSphere": {
             "repo": "zenoss/ZenPacks.zenoss.vSphere",
-            "ref": "3.4.0"
+            "ref": "3.4.1"
         },
         "zenpacks/ZenPacks.zenoss.vCloud": {
             "repo": "zenoss/ZenPacks.zenoss.vCloud",
