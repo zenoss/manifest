@@ -145,10 +145,6 @@
             "repo": "zenoss/ZenPacks.zenoss.MySqlMonitor",
             "ref": "3.0.7"
         },
-        "enterprise_zenpacks/ZenPacks.zenoss.EnterpriseLinux": {
-            "repo": "zenoss/ZenPacks.zenoss.EnterpriseLinux",
-            "ref": "1.4.0"
-        },
         "zenpacks/ZenPacks.zenoss.HttpMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.HttpMonitor",
             "ref": "2.1.0"
