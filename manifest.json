@@ -297,7 +297,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.UCSCapacity": {
             "repo": "zenoss/ZenPacks.zenoss.UCSCapacity",
-            "ref": "hotfix/1.2.3"
+            "ref": "1.2.3"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.PortalIntegration": {
             "repo": "zenoss/ZenPacks.zenoss.PortalIntegration",
