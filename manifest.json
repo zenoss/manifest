@@ -71,7 +71,7 @@
         },
         "zenpacks/ZenPacks.zenoss.Microsoft.Windows": {
             "repo": "zenoss/ZenPacks.zenoss.Microsoft.Windows",
-            "ref": "hotfix/2.6.3"
+            "ref": "2.6.3"
         },
         "core": {
             "repo": "zenoss/zenoss-prodbin",
