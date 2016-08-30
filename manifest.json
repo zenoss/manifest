@@ -273,7 +273,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.AixMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.AixMonitor",
-            "ref": "2.2.1"
+            "ref": "2.2.2"
         },
         "zproxy": {
             "repo": "zenoss/zproxy",
