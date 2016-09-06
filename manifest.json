@@ -131,7 +131,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.NetScreenMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.NetScreenMonitor",
-            "ref": "2.2.0"
+            "ref": "2.2.1"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.PropertyMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.PropertyMonitor",
