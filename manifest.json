@@ -103,7 +103,7 @@
         },
         "zenpacks/ZenPacks.zenoss.ControlCenter": {
             "repo": "zenoss/ZenPacks.zenoss.ControlCenter",
-            "ref": "1.2.4"
+            "ref": "support/5.1.x"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.DynamicView": {
             "repo": "zenoss/ZenPacks.zenoss.DynamicView",
@@ -337,7 +337,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.UCSXSkin": {
             "repo": "zenoss/ZenPacks.zenoss.UCSXSkin",
-            "ref": "2.1.7"
+            "ref": "develop"
         },
         "zenpacks/ZenPacks.zenoss.InstalledTemplatesReport": {
             "repo": "zenoss/ZenPacks.zenoss.InstalledTemplatesReport",
