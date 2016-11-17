@@ -84,7 +84,7 @@
         }, 
         "../build": {
             "repo": "zenoss/platform-build", 
-            "ref": "63fe233efbab4d82339a4e863570fac5b10ac2cb", 
+            "ref": "bugix/ZEN-26131", 
             "name": "build"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.BrocadeMonitor": {
