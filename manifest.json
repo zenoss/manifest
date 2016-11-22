@@ -79,7 +79,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.vSphere": {
             "repo": "zenoss/ZenPacks.zenoss.vSphere",
-            "ref": "3.5.2"
+            "ref": "3.5.3"
         },
         "zenpacks/ZenPacks.zenoss.vCloud": {
             "repo": "zenoss/ZenPacks.zenoss.vCloud",
@@ -87,7 +87,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.CiscoUCS": {
             "repo": "zenoss/ZenPacks.zenoss.CiscoUCS",
-            "ref": "2.5.0"
+            "ref": "2.5.2"
         },
         "zenpacks/ZenPacks.zenoss.FtpMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.FtpMonitor",
