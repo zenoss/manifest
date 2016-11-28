@@ -75,7 +75,7 @@
         },
         "core": {
             "repo": "zenoss/zenoss-prodbin",
-            "ref": "5.1.4"
+            "ref": "hotfix/5.1.4.x"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.vSphere": {
             "repo": "zenoss/ZenPacks.zenoss.vSphere",
@@ -183,12 +183,12 @@
         },
         "service": {
             "repo": "zenoss/zenoss-service",
-            "ref": "5.1.4",
+            "ref": "hotfix/5.1.4.x",
             "name": "service"
         },
         "../build": {
             "repo": "zenoss/platform-build",
-            "ref": "5.1.4",
+            "ref": "hotfix/5.1.4.x",
             "name": "build"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.CheckPointMonitor": {
