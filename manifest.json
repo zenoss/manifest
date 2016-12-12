@@ -301,7 +301,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.UCSCapacity": {
             "repo": "zenoss/ZenPacks.zenoss.UCSCapacity",
-            "ref": "develop"
+            "ref": "1.2.4"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.PortalIntegration": {
             "repo": "zenoss/ZenPacks.zenoss.PortalIntegration",
@@ -325,7 +325,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.CiscoUCSCentral": {
             "repo": "zenoss/ZenPacks.zenoss.CiscoUCSCentral",
-            "ref": "1.2.0"
+            "ref": "1.3.0"
         },
         "enterprise_zenpacks/ZenPacks.zenoss.ComponentGroups": {
             "repo": "zenoss/ZenPacks.zenoss.ComponentGroups",
@@ -337,7 +337,7 @@
         },
         "enterprise_zenpacks/ZenPacks.zenoss.UCSXSkin": {
             "repo": "zenoss/ZenPacks.zenoss.UCSXSkin",
-            "ref": "develop"
+            "ref": "2.1.7"
         },
         "zenpacks/ZenPacks.zenoss.InstalledTemplatesReport": {
             "repo": "zenoss/ZenPacks.zenoss.InstalledTemplatesReport",
