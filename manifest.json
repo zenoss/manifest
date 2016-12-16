@@ -141,7 +141,7 @@
         },
         "zenpacks/ZenPacks.zenoss.Docker": {
             "repo": "zenoss/ZenPacks.zenoss.Docker",
-            "ref": "2.0.0"
+            "ref": "2.0.1"
         },
         "zenpacks/ZenPacks.zenoss.OpenStack": {
             "repo": "zenoss/ZenPacks.zenoss.OpenStack",
